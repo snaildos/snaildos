@@ -4,9 +4,7 @@ SnailDOS is a multi service "corporation", as of currently, getting ran by one p
 We try too provide as much and best services we can, We really hope you enjoy our services!
 Let's go, and change the world, togeather, one step at a time.
 ## Currently Working on:
-SnailFM
 SnailDOS API
-MessageBackup Bot
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#326](https://github.com/IgorTimofeev/MineOS/issues/326) in [IgorTimofeev/MineOS](https://github.com/IgorTimofeev/MineOS)
