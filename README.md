@@ -9,16 +9,16 @@ https://snaildos.com
 SnailDOS API
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/snaildos/snailportal/issues/6) in [snaildos/snailportal](https://github.com/snaildos/snailportal)
-2. 🗣 Commented on [#5](https://github.com/snaildos/snailportal/issues/5) in [snaildos/snailportal](https://github.com/snaildos/snailportal)
-3. ❗️ Opened issue [#14](https://github.com/nextapps-de/winbox/issues/14) in [nextapps-de/winbox](https://github.com/nextapps-de/winbox)
-4. 🗣 Commented on [#4](https://github.com/snaildos/snailportal/issues/4) in [snaildos/snailportal](https://github.com/snaildos/snailportal)
-5. 🗣 Commented on [#4](https://github.com/snaildos/snailportal/issues/4) in [snaildos/snailportal](https://github.com/snaildos/snailportal)
-6. 🗣 Commented on [#4](https://github.com/snaildos/snailportal/issues/4) in [snaildos/snailportal](https://github.com/snaildos/snailportal)
-7. 🗣 Commented on [#4](https://github.com/snaildos/snailportal/issues/4) in [snaildos/snailportal](https://github.com/snaildos/snailportal)
-8. ❗️ Opened issue [#4](https://github.com/snaildos/snailportal/issues/4) in [snaildos/snailportal](https://github.com/snaildos/snailportal)
-9. ❗️ Opened issue [#20](https://github.com/snaildos/SnailFM-Application/issues/20) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-10. ❗️ Closed issue [#993](https://github.com/Anuken/Mindustry-Suggestions/issues/993) in [Anuken/Mindustry-Suggestions](https://github.com/Anuken/Mindustry-Suggestions)
+1. ❗️ Opened issue [#24](https://github.com/snaildos/SnailFM-Application/issues/24) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+2. 🗣 Commented on [#23](https://github.com/snaildos/SnailFM-Application/issues/23) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+3. ❗️ Opened issue [#23](https://github.com/snaildos/SnailFM-Application/issues/23) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+4. 🗣 Commented on [#6](https://github.com/snaildos/SnailFM-Application/issues/6) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+5. 🗣 Commented on [#20](https://github.com/snaildos/SnailFM-Application/issues/20) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+6. ❗️ Opened issue [#21](https://github.com/snaildos/SnailFM-Application/issues/21) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+7. ❗️ Closed issue [#16](https://github.com/snaildos/SnailFM-Application/issues/16) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+8. 🗣 Commented on [#16](https://github.com/snaildos/SnailFM-Application/issues/16) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+9. 🗣 Commented on [#20](https://github.com/snaildos/SnailFM-Application/issues/20) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+10. ❗️ Closed issue [#6](https://github.com/snaildos/snailportal/issues/6) in [snaildos/snailportal](https://github.com/snaildos/snailportal)
 <!--END_SECTION:activity-->
 Please join me, on discord.
 [discord](https://invite.gg/snaildos)
