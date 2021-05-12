@@ -9,16 +9,16 @@ https://snaildos.com
 SnailDOS API
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3347](https://github.com/pterodactyl/panel/issues/3347) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-2. 🗣 Commented on [#3345](https://github.com/pterodactyl/panel/issues/3345) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-3. ❗️ Opened issue [#15](https://github.com/real2two/dashactyl/issues/15) in [real2two/dashactyl](https://github.com/real2two/dashactyl)
-4. ❗️ Opened issue [#3345](https://github.com/pterodactyl/panel/issues/3345) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-5. ❗️ Closed issue [#498](https://github.com/shiftkey/desktop/issues/498) in [shiftkey/desktop](https://github.com/shiftkey/desktop)
-6. 🗣 Commented on [#498](https://github.com/shiftkey/desktop/issues/498) in [shiftkey/desktop](https://github.com/shiftkey/desktop)
-7. ❗️ Opened issue [#498](https://github.com/shiftkey/desktop/issues/498) in [shiftkey/desktop](https://github.com/shiftkey/desktop)
-8. 🗣 Commented on [#3338](https://github.com/pterodactyl/panel/issues/3338) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-9. ❗️ Opened issue [#3338](https://github.com/pterodactyl/panel/issues/3338) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-10. 🗣 Commented on [#4](https://github.com/snaildos/snailportal/issues/4) in [snaildos/snailportal](https://github.com/snaildos/snailportal)
+1. ❗️ Closed issue [#3350](https://github.com/pterodactyl/panel/issues/3350) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+2. 🗣 Commented on [#3350](https://github.com/pterodactyl/panel/issues/3350) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+3. ❗️ Opened issue [#3350](https://github.com/pterodactyl/panel/issues/3350) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+4. 🗣 Commented on [#3347](https://github.com/pterodactyl/panel/issues/3347) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+5. 🗣 Commented on [#3345](https://github.com/pterodactyl/panel/issues/3345) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+6. ❗️ Opened issue [#15](https://github.com/real2two/dashactyl/issues/15) in [real2two/dashactyl](https://github.com/real2two/dashactyl)
+7. ❗️ Opened issue [#3345](https://github.com/pterodactyl/panel/issues/3345) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+8. ❗️ Closed issue [#498](https://github.com/shiftkey/desktop/issues/498) in [shiftkey/desktop](https://github.com/shiftkey/desktop)
+9. 🗣 Commented on [#498](https://github.com/shiftkey/desktop/issues/498) in [shiftkey/desktop](https://github.com/shiftkey/desktop)
+10. ❗️ Opened issue [#498](https://github.com/shiftkey/desktop/issues/498) in [shiftkey/desktop](https://github.com/shiftkey/desktop)
 <!--END_SECTION:activity-->
 Please join me, on discord.
 [discord](https://invite.gg/snaildos)
