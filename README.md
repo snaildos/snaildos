@@ -9,16 +9,16 @@ https://snaildos.com
 SnailDOS API
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3335](https://github.com/pterodactyl/panel/issues/3335) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-2. 🗣 Commented on [#3352](https://github.com/pterodactyl/panel/issues/3352) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-3. ❗️ Closed issue [#3352](https://github.com/pterodactyl/panel/issues/3352) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-4. 🗣 Commented on [#3352](https://github.com/pterodactyl/panel/issues/3352) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-5. ❗️ Opened issue [#3352](https://github.com/pterodactyl/panel/issues/3352) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-6. ❗️ Closed issue [#15](https://github.com/FlaringPhoenix/PteroManager/issues/15) in [FlaringPhoenix/PteroManager](https://github.com/FlaringPhoenix/PteroManager)
-7. 🗣 Commented on [#15](https://github.com/FlaringPhoenix/PteroManager/issues/15) in [FlaringPhoenix/PteroManager](https://github.com/FlaringPhoenix/PteroManager)
-8. ❗️ Closed issue [#3350](https://github.com/pterodactyl/panel/issues/3350) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-9. 🗣 Commented on [#3350](https://github.com/pterodactyl/panel/issues/3350) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-10. ❗️ Opened issue [#3350](https://github.com/pterodactyl/panel/issues/3350) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+1. 🎉 Merged PR [#1](https://github.com/snaildos/images/pull/1) in [snaildos/images](https://github.com/snaildos/images)
+2. 🗣 Commented on [#3335](https://github.com/pterodactyl/panel/issues/3335) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+3. 🗣 Commented on [#3352](https://github.com/pterodactyl/panel/issues/3352) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+4. ❗️ Closed issue [#3352](https://github.com/pterodactyl/panel/issues/3352) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+5. 🗣 Commented on [#3352](https://github.com/pterodactyl/panel/issues/3352) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+6. ❗️ Opened issue [#3352](https://github.com/pterodactyl/panel/issues/3352) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+7. ❗️ Closed issue [#15](https://github.com/FlaringPhoenix/PteroManager/issues/15) in [FlaringPhoenix/PteroManager](https://github.com/FlaringPhoenix/PteroManager)
+8. 🗣 Commented on [#15](https://github.com/FlaringPhoenix/PteroManager/issues/15) in [FlaringPhoenix/PteroManager](https://github.com/FlaringPhoenix/PteroManager)
+9. ❗️ Closed issue [#3350](https://github.com/pterodactyl/panel/issues/3350) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+10. 🗣 Commented on [#3350](https://github.com/pterodactyl/panel/issues/3350) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
 <!--END_SECTION:activity-->
 Please join me, on discord.
 [discord](https://invite.gg/snaildos)
