@@ -15,10 +15,10 @@ SnailDOS API
 4. 🗣 Commented on [#2](https://github.com/kt5company/discord-uptimerobot/issues/2) in [kt5company/discord-uptimerobot](https://github.com/kt5company/discord-uptimerobot)
 5. 🗣 Commented on [#2](https://github.com/kt5company/discord-uptimerobot/issues/2) in [kt5company/discord-uptimerobot](https://github.com/kt5company/discord-uptimerobot)
 6. 🗣 Commented on [#2](https://github.com/kt5company/discord-uptimerobot/issues/2) in [kt5company/discord-uptimerobot](https://github.com/kt5company/discord-uptimerobot)
-7. ❗️ Closed issue [#15](https://github.com/real2two/dashactyl/issues/15) in [real2two/dashactyl](https://github.com/real2two/dashactyl)
-8. 🎉 Merged PR [#1](https://github.com/snaildos/images/pull/1) in [snaildos/images](https://github.com/snaildos/images)
-9. 🗣 Commented on [#3335](https://github.com/pterodactyl/panel/issues/3335) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-10. 🗣 Commented on [#3352](https://github.com/pterodactyl/panel/issues/3352) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+7. 🗣 Commented on [#2](https://github.com/kt5company/discord-uptimerobot/issues/2) in [kt5company/discord-uptimerobot](https://github.com/kt5company/discord-uptimerobot)
+8. 🗣 Commented on [#2](https://github.com/kt5company/discord-uptimerobot/issues/2) in [kt5company/discord-uptimerobot](https://github.com/kt5company/discord-uptimerobot)
+9. 🗣 Commented on [#2](https://github.com/kt5company/discord-uptimerobot/issues/2) in [kt5company/discord-uptimerobot](https://github.com/kt5company/discord-uptimerobot)
+10. 🗣 Commented on [#2](https://github.com/kt5company/discord-uptimerobot/issues/2) in [kt5company/discord-uptimerobot](https://github.com/kt5company/discord-uptimerobot)
 <!--END_SECTION:activity-->
 Please join me, on discord.
 [discord](https://invite.gg/snaildos)
