@@ -9,7 +9,7 @@ https://snaildos.com
 SnailDOS API
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/kt5company/discord-uptimerobot/issues/2) in [kt5company/discord-uptimerobot](https://github.com/kt5company/discord-uptimerobot)
+1. ❗️ Opened issue [#3370](https://github.com/pterodactyl/panel/issues/3370) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
 2. 🗣 Commented on [#2](https://github.com/kt5company/discord-uptimerobot/issues/2) in [kt5company/discord-uptimerobot](https://github.com/kt5company/discord-uptimerobot)
 3. 🗣 Commented on [#2](https://github.com/kt5company/discord-uptimerobot/issues/2) in [kt5company/discord-uptimerobot](https://github.com/kt5company/discord-uptimerobot)
 4. 🗣 Commented on [#2](https://github.com/kt5company/discord-uptimerobot/issues/2) in [kt5company/discord-uptimerobot](https://github.com/kt5company/discord-uptimerobot)
