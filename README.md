@@ -9,16 +9,16 @@ https://snaildos.com
 SnailDOS API
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#189](https://github.com/sindresorhus/electron-store/issues/189) in [sindresorhus/electron-store](https://github.com/sindresorhus/electron-store)
-2. 🗣 Commented on [#189](https://github.com/sindresorhus/electron-store/issues/189) in [sindresorhus/electron-store](https://github.com/sindresorhus/electron-store)
-3. 🗣 Commented on [#189](https://github.com/sindresorhus/electron-store/issues/189) in [sindresorhus/electron-store](https://github.com/sindresorhus/electron-store)
-4. ❗️ Opened issue [#189](https://github.com/sindresorhus/electron-store/issues/189) in [sindresorhus/electron-store](https://github.com/sindresorhus/electron-store)
-5. 🗣 Commented on [#4](https://github.com/snaildos/snailportal/issues/4) in [snaildos/snailportal](https://github.com/snaildos/snailportal)
-6. 🗣 Commented on [#4](https://github.com/snaildos/snailportal/issues/4) in [snaildos/snailportal](https://github.com/snaildos/snailportal)
-7. ❗️ Closed issue [#9](https://github.com/snaildos/snailportal/issues/9) in [snaildos/snailportal](https://github.com/snaildos/snailportal)
-8. 🗣 Commented on [#9](https://github.com/snaildos/snailportal/issues/9) in [snaildos/snailportal](https://github.com/snaildos/snailportal)
-9. 🗣 Commented on [#4](https://github.com/snaildos/snailportal/issues/4) in [snaildos/snailportal](https://github.com/snaildos/snailportal)
-10. 🗣 Commented on [#15](https://github.com/snaildos/SnailChat/issues/15) in [snaildos/SnailChat](https://github.com/snaildos/SnailChat)
+1. ❗️ Opened issue [#23](https://github.com/snaildos/snailportal/issues/23) in [snaildos/snailportal](https://github.com/snaildos/snailportal)
+2. ❗️ Closed issue [#14](https://github.com/nextapps-de/winbox/issues/14) in [nextapps-de/winbox](https://github.com/nextapps-de/winbox)
+3. 🗣 Commented on [#14](https://github.com/nextapps-de/winbox/issues/14) in [nextapps-de/winbox](https://github.com/nextapps-de/winbox)
+4. 🎉 Merged PR [#22](https://github.com/snaildos/snailportal/pull/22) in [snaildos/snailportal](https://github.com/snaildos/snailportal)
+5. 🎉 Merged PR [#8](https://github.com/snaildos/snailportal/pull/8) in [snaildos/snailportal](https://github.com/snaildos/snailportal)
+6. 🗣 Commented on [#8](https://github.com/snaildos/snailportal/issues/8) in [snaildos/snailportal](https://github.com/snaildos/snailportal)
+7. 🎉 Merged PR [#20](https://github.com/snaildos/snailportal/pull/20) in [snaildos/snailportal](https://github.com/snaildos/snailportal)
+8. 🗣 Commented on [#20](https://github.com/snaildos/snailportal/issues/20) in [snaildos/snailportal](https://github.com/snaildos/snailportal)
+9. 🎉 Merged PR [#21](https://github.com/snaildos/snailportal/pull/21) in [snaildos/snailportal](https://github.com/snaildos/snailportal)
+10. 🗣 Commented on [#7](https://github.com/snaildos/snailportal/issues/7) in [snaildos/snailportal](https://github.com/snaildos/snailportal)
 <!--END_SECTION:activity-->
 Please join me, on discord.
 [discord](https://invite.gg/snaildos)
