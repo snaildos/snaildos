@@ -9,16 +9,16 @@ https://snaildos.com
 SnailDOS API
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/snaildos/snailportal/pull/38) in [snaildos/snailportal](https://github.com/snaildos/snailportal)
-2. 🎉 Merged PR [#33](https://github.com/snaildos/SnailFM-Application/pull/33) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-3. 🗣 Commented on [#1698](https://github.com/MightyPirates/OpenComputers/issues/1698) in [MightyPirates/OpenComputers](https://github.com/MightyPirates/OpenComputers)
-4. 🗣 Commented on [#1517](https://github.com/GeyserMC/Geyser/issues/1517) in [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser)
-5. ❗️ Closed issue [#5995](https://github.com/electron-userland/electron-builder/issues/5995) in [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder)
-6. 🗣 Commented on [#5995](https://github.com/electron-userland/electron-builder/issues/5995) in [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder)
-7. 🎉 Merged PR [#2](https://github.com/snaildos/SnailPortal-Mobile/pull/2) in [snaildos/SnailPortal-Mobile](https://github.com/snaildos/SnailPortal-Mobile)
-8. 🎉 Merged PR [#1](https://github.com/snaildos/SnailPortal-Mobile/pull/1) in [snaildos/SnailPortal-Mobile](https://github.com/snaildos/SnailPortal-Mobile)
-9. ❗️ Opened issue [#37](https://github.com/snaildos/snailportal/issues/37) in [snaildos/snailportal](https://github.com/snaildos/snailportal)
-10. 🎉 Merged PR [#36](https://github.com/snaildos/snailportal/pull/36) in [snaildos/snailportal](https://github.com/snaildos/snailportal)
+1. 🗣 Commented on [#26](https://github.com/kybarg/bootstrap-dropdown-hover/issues/26) in [kybarg/bootstrap-dropdown-hover](https://github.com/kybarg/bootstrap-dropdown-hover)
+2. ❗️ Opened issue [#26](https://github.com/kybarg/bootstrap-dropdown-hover/issues/26) in [kybarg/bootstrap-dropdown-hover](https://github.com/kybarg/bootstrap-dropdown-hover)
+3. 🎉 Merged PR [#38](https://github.com/snaildos/snailportal/pull/38) in [snaildos/snailportal](https://github.com/snaildos/snailportal)
+4. 🎉 Merged PR [#33](https://github.com/snaildos/SnailFM-Application/pull/33) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+5. 🗣 Commented on [#1698](https://github.com/MightyPirates/OpenComputers/issues/1698) in [MightyPirates/OpenComputers](https://github.com/MightyPirates/OpenComputers)
+6. 🗣 Commented on [#1517](https://github.com/GeyserMC/Geyser/issues/1517) in [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser)
+7. ❗️ Closed issue [#5995](https://github.com/electron-userland/electron-builder/issues/5995) in [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder)
+8. 🗣 Commented on [#5995](https://github.com/electron-userland/electron-builder/issues/5995) in [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder)
+9. 🎉 Merged PR [#2](https://github.com/snaildos/SnailPortal-Mobile/pull/2) in [snaildos/SnailPortal-Mobile](https://github.com/snaildos/SnailPortal-Mobile)
+10. 🎉 Merged PR [#1](https://github.com/snaildos/SnailPortal-Mobile/pull/1) in [snaildos/SnailPortal-Mobile](https://github.com/snaildos/SnailPortal-Mobile)
 <!--END_SECTION:activity-->
 Please join me, on discord.
 [discord](https://invite.gg/snaildos)
