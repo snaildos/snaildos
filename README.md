@@ -9,16 +9,16 @@ https://snaildos.com
 SnailDOS API
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/snaildos/SnailMiner/pull/2) in [snaildos/SnailMiner](https://github.com/snaildos/SnailMiner)
-2. 🗣 Commented on [#1842](https://github.com/electron/apps/issues/1842) in [electron/apps](https://github.com/electron/apps)
-3. 🎉 Merged PR [#2](https://github.com/snaildos/apps/pull/2) in [snaildos/apps](https://github.com/snaildos/apps)
-4. 💪 Opened PR [#2](https://github.com/snaildos/apps/pull/2) in [snaildos/apps](https://github.com/snaildos/apps)
-5. 💪 Opened PR [#1842](https://github.com/electron/apps/pull/1842) in [electron/apps](https://github.com/electron/apps)
-6. ❗️ Opened issue [#222](https://github.com/synzen/MonitoRSS/issues/222) in [synzen/MonitoRSS](https://github.com/synzen/MonitoRSS)
-7. 🗣 Commented on [#26](https://github.com/kybarg/bootstrap-dropdown-hover/issues/26) in [kybarg/bootstrap-dropdown-hover](https://github.com/kybarg/bootstrap-dropdown-hover)
-8. ❗️ Closed issue [#26](https://github.com/kybarg/bootstrap-dropdown-hover/issues/26) in [kybarg/bootstrap-dropdown-hover](https://github.com/kybarg/bootstrap-dropdown-hover)
+1. 🗣 Commented on [#3501](https://github.com/pterodactyl/panel/issues/3501) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+2. ❗️ Opened issue [#3501](https://github.com/pterodactyl/panel/issues/3501) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+3. 🎉 Merged PR [#2](https://github.com/snaildos/SnailMiner/pull/2) in [snaildos/SnailMiner](https://github.com/snaildos/SnailMiner)
+4. 🗣 Commented on [#1842](https://github.com/electron/apps/issues/1842) in [electron/apps](https://github.com/electron/apps)
+5. 🎉 Merged PR [#2](https://github.com/snaildos/apps/pull/2) in [snaildos/apps](https://github.com/snaildos/apps)
+6. 💪 Opened PR [#2](https://github.com/snaildos/apps/pull/2) in [snaildos/apps](https://github.com/snaildos/apps)
+7. 💪 Opened PR [#1842](https://github.com/electron/apps/pull/1842) in [electron/apps](https://github.com/electron/apps)
+8. ❗️ Opened issue [#222](https://github.com/synzen/MonitoRSS/issues/222) in [synzen/MonitoRSS](https://github.com/synzen/MonitoRSS)
 9. 🗣 Commented on [#26](https://github.com/kybarg/bootstrap-dropdown-hover/issues/26) in [kybarg/bootstrap-dropdown-hover](https://github.com/kybarg/bootstrap-dropdown-hover)
-10. 🗣 Commented on [#25](https://github.com/kybarg/bootstrap-dropdown-hover/issues/25) in [kybarg/bootstrap-dropdown-hover](https://github.com/kybarg/bootstrap-dropdown-hover)
+10. ❗️ Closed issue [#26](https://github.com/kybarg/bootstrap-dropdown-hover/issues/26) in [kybarg/bootstrap-dropdown-hover](https://github.com/kybarg/bootstrap-dropdown-hover)
 <!--END_SECTION:activity-->
 Please join me, on discord.
 [discord](https://invite.gg/snaildos)
