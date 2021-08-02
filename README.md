@@ -9,14 +9,14 @@ https://snaildos.com
 SnailDOS API
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/snaildos/StreamBop/pull/8) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-2. 🎉 Merged PR [#9](https://github.com/snaildos/StreamBop/pull/9) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-3. 🗣 Commented on [#3](https://github.com/snaildos/SnailMiner/issues/3) in [snaildos/SnailMiner](https://github.com/snaildos/SnailMiner)
+1. ❗️ Closed issue [#10](https://github.com/snaildos/StreamBop/issues/10) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+2. 🎉 Merged PR [#8](https://github.com/snaildos/StreamBop/pull/8) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+3. 🎉 Merged PR [#9](https://github.com/snaildos/StreamBop/pull/9) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
 4. 🗣 Commented on [#3](https://github.com/snaildos/SnailMiner/issues/3) in [snaildos/SnailMiner](https://github.com/snaildos/SnailMiner)
-5. 🗣 Commented on [#10](https://github.com/snaildos/StreamBop/issues/10) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-6. ❗️ Opened issue [#10](https://github.com/snaildos/StreamBop/issues/10) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-7. ❗️ Opened issue [#3506](https://github.com/pterodactyl/panel/issues/3506) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-8. 🗣 Commented on [#3501](https://github.com/pterodactyl/panel/issues/3501) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+5. 🗣 Commented on [#3](https://github.com/snaildos/SnailMiner/issues/3) in [snaildos/SnailMiner](https://github.com/snaildos/SnailMiner)
+6. 🗣 Commented on [#10](https://github.com/snaildos/StreamBop/issues/10) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+7. ❗️ Opened issue [#10](https://github.com/snaildos/StreamBop/issues/10) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+8. ❗️ Opened issue [#3506](https://github.com/pterodactyl/panel/issues/3506) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
 9. 🗣 Commented on [#3501](https://github.com/pterodactyl/panel/issues/3501) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
 10. 🗣 Commented on [#3501](https://github.com/pterodactyl/panel/issues/3501) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
 <!--END_SECTION:activity-->
