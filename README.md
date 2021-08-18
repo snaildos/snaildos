@@ -9,16 +9,16 @@ https://snaildos.com
 SnailDOS API
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1860](https://github.com/electron/apps/issues/1860) in [electron/apps](https://github.com/electron/apps)
-2. 🗣 Commented on [#1859](https://github.com/electron/apps/issues/1859) in [electron/apps](https://github.com/electron/apps)
-3. 💪 Opened PR [#1860](https://github.com/electron/apps/pull/1860) in [electron/apps](https://github.com/electron/apps)
-4. 🗣 Commented on [#1859](https://github.com/electron/apps/issues/1859) in [electron/apps](https://github.com/electron/apps)
-5. 🗣 Commented on [#1856](https://github.com/electron/apps/issues/1856) in [electron/apps](https://github.com/electron/apps)
-6. 🗣 Commented on [#1859](https://github.com/electron/apps/issues/1859) in [electron/apps](https://github.com/electron/apps)
-7. 🎉 Merged PR [#13](https://github.com/snaildos/StreamBop/pull/13) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-8. 🗣 Commented on [#4676](https://github.com/electron-userland/electron-builder/issues/4676) in [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder)
-9. ❗️ Closed issue [#3506](https://github.com/pterodactyl/panel/issues/3506) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-10. 🎉 Merged PR [#12](https://github.com/snaildos/StreamBop/pull/12) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+1. 🗣 Commented on [#7](https://github.com/snaildos/snailportal-app/issues/7) in [snaildos/snailportal-app](https://github.com/snaildos/snailportal-app)
+2. ❗️ Closed issue [#23](https://github.com/snaildos/snailportal-app/issues/23) in [snaildos/snailportal-app](https://github.com/snaildos/snailportal-app)
+3. ❗️ Opened issue [#175](https://github.com/ControlPanel-gg/dashboard/issues/175) in [ControlPanel-gg/dashboard](https://github.com/ControlPanel-gg/dashboard)
+4. 🗣 Commented on [#1860](https://github.com/electron/apps/issues/1860) in [electron/apps](https://github.com/electron/apps)
+5. 🗣 Commented on [#1859](https://github.com/electron/apps/issues/1859) in [electron/apps](https://github.com/electron/apps)
+6. 💪 Opened PR [#1860](https://github.com/electron/apps/pull/1860) in [electron/apps](https://github.com/electron/apps)
+7. 🗣 Commented on [#1859](https://github.com/electron/apps/issues/1859) in [electron/apps](https://github.com/electron/apps)
+8. 🗣 Commented on [#1856](https://github.com/electron/apps/issues/1856) in [electron/apps](https://github.com/electron/apps)
+9. 🗣 Commented on [#1859](https://github.com/electron/apps/issues/1859) in [electron/apps](https://github.com/electron/apps)
+10. 🎉 Merged PR [#13](https://github.com/snaildos/StreamBop/pull/13) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
 <!--END_SECTION:activity-->
 Please join me, on discord.
 [discord](https://invite.gg/snaildos)
