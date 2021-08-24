@@ -24,16 +24,16 @@
 
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#575](https://github.com/Sank6/Discord-Bot-List/issues/575) in [Sank6/Discord-Bot-List](https://github.com/Sank6/Discord-Bot-List)
-2. ❗️ Opened issue [#586](https://github.com/Sank6/Discord-Bot-List/issues/586) in [Sank6/Discord-Bot-List](https://github.com/Sank6/Discord-Bot-List)
-3. 🎉 Merged PR [#2](https://github.com/snaildos/Fifo-Browser/pull/2) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-4. 🎉 Merged PR [#3](https://github.com/snaildos/Fifo-Browser/pull/3) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-5. 🎉 Merged PR [#4](https://github.com/snaildos/Fifo-Browser/pull/4) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-6. 🗣 Commented on [#175](https://github.com/ControlPanel-gg/dashboard/issues/175) in [ControlPanel-gg/dashboard](https://github.com/ControlPanel-gg/dashboard)
-7. 🗣 Commented on [#6169](https://github.com/electron-userland/electron-builder/issues/6169) in [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder)
-8. 🎉 Merged PR [#14](https://github.com/snaildos/StreamBop/pull/14) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-9. 🎉 Merged PR [#15](https://github.com/snaildos/StreamBop/pull/15) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-10. 🎉 Merged PR [#16](https://github.com/snaildos/StreamBop/pull/16) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+1. ❗️ Closed issue [#586](https://github.com/Sank6/Discord-Bot-List/issues/586) in [Sank6/Discord-Bot-List](https://github.com/Sank6/Discord-Bot-List)
+2. 🗣 Commented on [#575](https://github.com/Sank6/Discord-Bot-List/issues/575) in [Sank6/Discord-Bot-List](https://github.com/Sank6/Discord-Bot-List)
+3. ❗️ Opened issue [#586](https://github.com/Sank6/Discord-Bot-List/issues/586) in [Sank6/Discord-Bot-List](https://github.com/Sank6/Discord-Bot-List)
+4. 🎉 Merged PR [#2](https://github.com/snaildos/Fifo-Browser/pull/2) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+5. 🎉 Merged PR [#3](https://github.com/snaildos/Fifo-Browser/pull/3) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+6. 🎉 Merged PR [#4](https://github.com/snaildos/Fifo-Browser/pull/4) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+7. 🗣 Commented on [#175](https://github.com/ControlPanel-gg/dashboard/issues/175) in [ControlPanel-gg/dashboard](https://github.com/ControlPanel-gg/dashboard)
+8. 🗣 Commented on [#6169](https://github.com/electron-userland/electron-builder/issues/6169) in [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder)
+9. 🎉 Merged PR [#14](https://github.com/snaildos/StreamBop/pull/14) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+10. 🎉 Merged PR [#15](https://github.com/snaildos/StreamBop/pull/15) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
 <!--END_SECTION:activity-->
 Please join me, on discord.
 [discord](https://invite.gg/snaildos)
