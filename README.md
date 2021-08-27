@@ -24,16 +24,16 @@
 
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/snaildos/Fifo-Browser/issues/25) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-2. 🎉 Merged PR [#25](https://github.com/snaildos/Fifo-Browser/pull/25) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-3. 🎉 Merged PR [#22](https://github.com/snaildos/Fifo-Browser/pull/22) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-4. 🎉 Merged PR [#23](https://github.com/snaildos/Fifo-Browser/pull/23) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-5. 🎉 Merged PR [#24](https://github.com/snaildos/Fifo-Browser/pull/24) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-6. 🗣 Commented on [#21](https://github.com/louislam/uptime-kuma/issues/21) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-7. 🎉 Merged PR [#5](https://github.com/snaildos/Fifo-Browser/pull/5) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-8. 🎉 Merged PR [#20](https://github.com/snaildos/Fifo-Browser/pull/20) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-9. 🎉 Merged PR [#21](https://github.com/snaildos/Fifo-Browser/pull/21) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-10. 🗣 Commented on [#1865](https://github.com/electron/apps/issues/1865) in [electron/apps](https://github.com/electron/apps)
+1. 🎉 Merged PR [#29](https://github.com/snaildos/Fifo-Browser/pull/29) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+2. 🎉 Merged PR [#30](https://github.com/snaildos/Fifo-Browser/pull/30) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+3. 🎉 Merged PR [#28](https://github.com/snaildos/Fifo-Browser/pull/28) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+4. 🎉 Merged PR [#27](https://github.com/snaildos/Fifo-Browser/pull/27) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+5. 🎉 Merged PR [#26](https://github.com/snaildos/Fifo-Browser/pull/26) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+6. 🗣 Commented on [#25](https://github.com/snaildos/Fifo-Browser/issues/25) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+7. 🎉 Merged PR [#25](https://github.com/snaildos/Fifo-Browser/pull/25) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+8. 🎉 Merged PR [#22](https://github.com/snaildos/Fifo-Browser/pull/22) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+9. 🎉 Merged PR [#23](https://github.com/snaildos/Fifo-Browser/pull/23) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+10. 🎉 Merged PR [#24](https://github.com/snaildos/Fifo-Browser/pull/24) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
 <!--END_SECTION:activity-->
 Please join me, on discord.
 [discord](https://invite.gg/snaildos)
