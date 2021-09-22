@@ -24,16 +24,16 @@
 
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6169](https://github.com/electron-userland/electron-builder/issues/6169) in [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder)
-2. ❗️ Closed issue [#3630](https://github.com/pterodactyl/panel/issues/3630) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-3. 🗣 Commented on [#3630](https://github.com/pterodactyl/panel/issues/3630) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-4. ❗️ Opened issue [#3630](https://github.com/pterodactyl/panel/issues/3630) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-5. 🎉 Merged PR [#25](https://github.com/snaildos/StreamBop/pull/25) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-6. 🎉 Merged PR [#24](https://github.com/snaildos/StreamBop/pull/24) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-7. 🎉 Merged PR [#42](https://github.com/snaildos/SnailFM-Application/pull/42) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-8. 🎉 Merged PR [#41](https://github.com/snaildos/SnailFM-Application/pull/41) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-9. 🎉 Merged PR [#23](https://github.com/snaildos/StreamBop/pull/23) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-10. 🎉 Merged PR [#40](https://github.com/snaildos/SnailFM-Application/pull/40) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+1. 🎉 Merged PR [#26](https://github.com/snaildos/StreamBop/pull/26) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+2. 🗣 Commented on [#6169](https://github.com/electron-userland/electron-builder/issues/6169) in [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder)
+3. ❗️ Closed issue [#3630](https://github.com/pterodactyl/panel/issues/3630) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+4. 🗣 Commented on [#3630](https://github.com/pterodactyl/panel/issues/3630) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+5. ❗️ Opened issue [#3630](https://github.com/pterodactyl/panel/issues/3630) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+6. 🎉 Merged PR [#25](https://github.com/snaildos/StreamBop/pull/25) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+7. 🎉 Merged PR [#24](https://github.com/snaildos/StreamBop/pull/24) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+8. 🎉 Merged PR [#42](https://github.com/snaildos/SnailFM-Application/pull/42) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+9. 🎉 Merged PR [#41](https://github.com/snaildos/SnailFM-Application/pull/41) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+10. 🎉 Merged PR [#23](https://github.com/snaildos/StreamBop/pull/23) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
 <!--END_SECTION:activity-->
 Please join me, on discord.
 [discord](https://invite.gg/snaildos)
