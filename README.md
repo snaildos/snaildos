@@ -24,16 +24,16 @@
 
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/nates/ward/issues/27) in [nates/ward](https://github.com/nates/ward)
+1. 🗣 Commented on [#22](https://github.com/nates/ward/issues/22) in [nates/ward](https://github.com/nates/ward)
 2. 🗣 Commented on [#27](https://github.com/nates/ward/issues/27) in [nates/ward](https://github.com/nates/ward)
-3. 💪 Opened PR [#27](https://github.com/nates/ward/pull/27) in [nates/ward](https://github.com/nates/ward)
-4. 🗣 Commented on [#63](https://github.com/Kahoot-Clone/kahoot-clone/issues/63) in [Kahoot-Clone/kahoot-clone](https://github.com/Kahoot-Clone/kahoot-clone)
-5. 🗣 Commented on [#17](https://github.com/electron-userland/electron-build-service/issues/17) in [electron-userland/electron-build-service](https://github.com/electron-userland/electron-build-service)
-6. 🗣 Commented on [#15](https://github.com/electron-userland/electron-build-service/issues/15) in [electron-userland/electron-build-service](https://github.com/electron-userland/electron-build-service)
-7. ❗️ Closed issue [#13](https://github.com/electron-userland/electron-build-service/issues/13) in [electron-userland/electron-build-service](https://github.com/electron-userland/electron-build-service)
-8. 🗣 Commented on [#13](https://github.com/electron-userland/electron-build-service/issues/13) in [electron-userland/electron-build-service](https://github.com/electron-userland/electron-build-service)
-9. 🗣 Commented on [#683](https://github.com/Palakis/obs-ndi/issues/683) in [Palakis/obs-ndi](https://github.com/Palakis/obs-ndi)
-10. 🎉 Merged PR [#39](https://github.com/snaildos/Fifo-Browser/pull/39) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+3. 🗣 Commented on [#27](https://github.com/nates/ward/issues/27) in [nates/ward](https://github.com/nates/ward)
+4. 🗣 Commented on [#27](https://github.com/nates/ward/issues/27) in [nates/ward](https://github.com/nates/ward)
+5. 💪 Opened PR [#27](https://github.com/nates/ward/pull/27) in [nates/ward](https://github.com/nates/ward)
+6. 🗣 Commented on [#63](https://github.com/Kahoot-Clone/kahoot-clone/issues/63) in [Kahoot-Clone/kahoot-clone](https://github.com/Kahoot-Clone/kahoot-clone)
+7. 🗣 Commented on [#17](https://github.com/electron-userland/electron-build-service/issues/17) in [electron-userland/electron-build-service](https://github.com/electron-userland/electron-build-service)
+8. 🗣 Commented on [#15](https://github.com/electron-userland/electron-build-service/issues/15) in [electron-userland/electron-build-service](https://github.com/electron-userland/electron-build-service)
+9. ❗️ Closed issue [#13](https://github.com/electron-userland/electron-build-service/issues/13) in [electron-userland/electron-build-service](https://github.com/electron-userland/electron-build-service)
+10. 🗣 Commented on [#13](https://github.com/electron-userland/electron-build-service/issues/13) in [electron-userland/electron-build-service](https://github.com/electron-userland/electron-build-service)
 <!--END_SECTION:activity-->
 Please join me, on discord.
 [discord](https://invite.gg/snaildos)
