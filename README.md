@@ -24,15 +24,15 @@
 
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/snaildos/SnailFM-Application/pull/49) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-2. ❗️ Closed issue [#52](https://github.com/snaildos/Fifo-Browser/issues/52) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-3. 🗣 Commented on [#52](https://github.com/snaildos/Fifo-Browser/issues/52) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-4. 🗣 Commented on [#200](https://github.com/AryToNeX/Glasstron/issues/200) in [AryToNeX/Glasstron](https://github.com/AryToNeX/Glasstron)
-5. 🎉 Merged PR [#47](https://github.com/snaildos/SnailFM-Application/pull/47) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-6. 🗣 Commented on [#200](https://github.com/AryToNeX/Glasstron/issues/200) in [AryToNeX/Glasstron](https://github.com/AryToNeX/Glasstron)
+1. ❌ Closed PR [#51](https://github.com/snaildos/SnailFM-Application/pull/51) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+2. 🎉 Merged PR [#49](https://github.com/snaildos/SnailFM-Application/pull/49) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+3. ❗️ Closed issue [#52](https://github.com/snaildos/Fifo-Browser/issues/52) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+4. 🗣 Commented on [#52](https://github.com/snaildos/Fifo-Browser/issues/52) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+5. 🗣 Commented on [#200](https://github.com/AryToNeX/Glasstron/issues/200) in [AryToNeX/Glasstron](https://github.com/AryToNeX/Glasstron)
+6. 🎉 Merged PR [#47](https://github.com/snaildos/SnailFM-Application/pull/47) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
 7. 🗣 Commented on [#200](https://github.com/AryToNeX/Glasstron/issues/200) in [AryToNeX/Glasstron](https://github.com/AryToNeX/Glasstron)
-8. 🗣 Commented on [#52](https://github.com/snaildos/Fifo-Browser/issues/52) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-9. 🗣 Commented on [#200](https://github.com/AryToNeX/Glasstron/issues/200) in [AryToNeX/Glasstron](https://github.com/AryToNeX/Glasstron)
+8. 🗣 Commented on [#200](https://github.com/AryToNeX/Glasstron/issues/200) in [AryToNeX/Glasstron](https://github.com/AryToNeX/Glasstron)
+9. 🗣 Commented on [#52](https://github.com/snaildos/Fifo-Browser/issues/52) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
 10. 🗣 Commented on [#200](https://github.com/AryToNeX/Glasstron/issues/200) in [AryToNeX/Glasstron](https://github.com/AryToNeX/Glasstron)
 <!--END_SECTION:activity-->
 Please join me, on discord.
