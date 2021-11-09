@@ -24,16 +24,16 @@
 
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/snaildos/electron-with-snaildos-login/pull/2) in [snaildos/electron-with-snaildos-login](https://github.com/snaildos/electron-with-snaildos-login)
-2. ❌ Closed PR [#1](https://github.com/snaildos/electron-with-snaildos-login/pull/1) in [snaildos/electron-with-snaildos-login](https://github.com/snaildos/electron-with-snaildos-login)
-3. ❗️ Closed issue [#1](https://github.com/snaildos/instantComputerCrasher/issues/1) in [snaildos/instantComputerCrasher](https://github.com/snaildos/instantComputerCrasher)
-4. 🗣 Commented on [#199](https://github.com/NyaomiDEV/Glasstron/issues/199) in [NyaomiDEV/Glasstron](https://github.com/NyaomiDEV/Glasstron)
-5. ❗️ Closed issue [#1](https://github.com/ethiclab/kahoot-clone/issues/1) in [ethiclab/kahoot-clone](https://github.com/ethiclab/kahoot-clone)
-6. 🗣 Commented on [#1](https://github.com/ethiclab/kahoot-clone/issues/1) in [ethiclab/kahoot-clone](https://github.com/ethiclab/kahoot-clone)
-7. ❗️ Opened issue [#2](https://github.com/ethiclab/kahoot-clone/issues/2) in [ethiclab/kahoot-clone](https://github.com/ethiclab/kahoot-clone)
-8. ❗️ Opened issue [#1](https://github.com/ethiclab/kahoot-clone/issues/1) in [ethiclab/kahoot-clone](https://github.com/ethiclab/kahoot-clone)
-9. 🎉 Merged PR [#53](https://github.com/snaildos/SnailFM-Application/pull/53) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-10. 🗣 Commented on [#63](https://github.com/Kahoot-Clone/kahoot-clone/issues/63) in [Kahoot-Clone/kahoot-clone](https://github.com/Kahoot-Clone/kahoot-clone)
+1. 🎉 Merged PR [#49](https://github.com/snaildos/Fifo-Browser/pull/49) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+2. 🎉 Merged PR [#34](https://github.com/snaildos/StreamBop/pull/34) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+3. 🎉 Merged PR [#54](https://github.com/snaildos/SnailFM-Application/pull/54) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+4. 🎉 Merged PR [#2](https://github.com/snaildos/electron-with-snaildos-login/pull/2) in [snaildos/electron-with-snaildos-login](https://github.com/snaildos/electron-with-snaildos-login)
+5. ❌ Closed PR [#1](https://github.com/snaildos/electron-with-snaildos-login/pull/1) in [snaildos/electron-with-snaildos-login](https://github.com/snaildos/electron-with-snaildos-login)
+6. ❗️ Closed issue [#1](https://github.com/snaildos/instantComputerCrasher/issues/1) in [snaildos/instantComputerCrasher](https://github.com/snaildos/instantComputerCrasher)
+7. 🗣 Commented on [#199](https://github.com/NyaomiDEV/Glasstron/issues/199) in [NyaomiDEV/Glasstron](https://github.com/NyaomiDEV/Glasstron)
+8. ❗️ Closed issue [#1](https://github.com/ethiclab/kahoot-clone/issues/1) in [ethiclab/kahoot-clone](https://github.com/ethiclab/kahoot-clone)
+9. 🗣 Commented on [#1](https://github.com/ethiclab/kahoot-clone/issues/1) in [ethiclab/kahoot-clone](https://github.com/ethiclab/kahoot-clone)
+10. ❗️ Opened issue [#2](https://github.com/ethiclab/kahoot-clone/issues/2) in [ethiclab/kahoot-clone](https://github.com/ethiclab/kahoot-clone)
 <!--END_SECTION:activity-->
 Please join me, on discord.
 [discord](https://invite.gg/snaildos)
