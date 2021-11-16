@@ -24,16 +24,16 @@
 
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/snaildos/electron-with-snaildos-login/pull/5) in [snaildos/electron-with-snaildos-login](https://github.com/snaildos/electron-with-snaildos-login)
-2. 🎉 Merged PR [#35](https://github.com/snaildos/StreamBop/pull/35) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-3. 🎉 Merged PR [#4](https://github.com/snaildos/electron-with-snaildos-login/pull/4) in [snaildos/electron-with-snaildos-login](https://github.com/snaildos/electron-with-snaildos-login)
-4. 🎉 Merged PR [#80](https://github.com/snaildos/snailportal-app/pull/80) in [snaildos/snailportal-app](https://github.com/snaildos/snailportal-app)
-5. 🎉 Merged PR [#49](https://github.com/snaildos/Fifo-Browser/pull/49) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-6. 🎉 Merged PR [#34](https://github.com/snaildos/StreamBop/pull/34) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-7. 🎉 Merged PR [#54](https://github.com/snaildos/SnailFM-Application/pull/54) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-8. 🎉 Merged PR [#2](https://github.com/snaildos/electron-with-snaildos-login/pull/2) in [snaildos/electron-with-snaildos-login](https://github.com/snaildos/electron-with-snaildos-login)
-9. ❌ Closed PR [#1](https://github.com/snaildos/electron-with-snaildos-login/pull/1) in [snaildos/electron-with-snaildos-login](https://github.com/snaildos/electron-with-snaildos-login)
-10. ❗️ Closed issue [#1](https://github.com/snaildos/instantComputerCrasher/issues/1) in [snaildos/instantComputerCrasher](https://github.com/snaildos/instantComputerCrasher)
+1. ❗️ Opened issue [#88](https://github.com/sindresorhus/is-online/issues/88) in [sindresorhus/is-online](https://github.com/sindresorhus/is-online)
+2. 🎉 Merged PR [#5](https://github.com/snaildos/electron-with-snaildos-login/pull/5) in [snaildos/electron-with-snaildos-login](https://github.com/snaildos/electron-with-snaildos-login)
+3. 🎉 Merged PR [#35](https://github.com/snaildos/StreamBop/pull/35) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+4. 🎉 Merged PR [#4](https://github.com/snaildos/electron-with-snaildos-login/pull/4) in [snaildos/electron-with-snaildos-login](https://github.com/snaildos/electron-with-snaildos-login)
+5. 🎉 Merged PR [#80](https://github.com/snaildos/snailportal-app/pull/80) in [snaildos/snailportal-app](https://github.com/snaildos/snailportal-app)
+6. 🎉 Merged PR [#49](https://github.com/snaildos/Fifo-Browser/pull/49) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+7. 🎉 Merged PR [#34](https://github.com/snaildos/StreamBop/pull/34) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+8. 🎉 Merged PR [#54](https://github.com/snaildos/SnailFM-Application/pull/54) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+9. 🎉 Merged PR [#2](https://github.com/snaildos/electron-with-snaildos-login/pull/2) in [snaildos/electron-with-snaildos-login](https://github.com/snaildos/electron-with-snaildos-login)
+10. ❌ Closed PR [#1](https://github.com/snaildos/electron-with-snaildos-login/pull/1) in [snaildos/electron-with-snaildos-login](https://github.com/snaildos/electron-with-snaildos-login)
 <!--END_SECTION:activity-->
 Please join me, on discord.
 [discord](https://invite.gg/snaildos)
