@@ -24,16 +24,16 @@
 
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35315](https://github.com/microsoft/winget-pkgs/pull/35315) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-2. 💪 Opened PR [#35313](https://github.com/microsoft/winget-pkgs/pull/35313) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-3. 🎉 Merged PR [#38](https://github.com/snaildos/StreamBop/pull/38) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-4. 🎉 Merged PR [#58](https://github.com/snaildos/SnailFM-Application/pull/58) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-5. 🎉 Merged PR [#56](https://github.com/snaildos/SnailFM-Application/pull/56) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-6. 🎉 Merged PR [#57](https://github.com/snaildos/SnailFM-Application/pull/57) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-7. 🎉 Merged PR [#36](https://github.com/snaildos/StreamBop/pull/36) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-8. ❗️ Closed issue [#88](https://github.com/sindresorhus/is-online/issues/88) in [sindresorhus/is-online](https://github.com/sindresorhus/is-online)
-9. 🗣 Commented on [#88](https://github.com/sindresorhus/is-online/issues/88) in [sindresorhus/is-online](https://github.com/sindresorhus/is-online)
-10. ❗️ Opened issue [#88](https://github.com/sindresorhus/is-online/issues/88) in [sindresorhus/is-online](https://github.com/sindresorhus/is-online)
+1. ❌ Closed PR [#35313](https://github.com/microsoft/winget-pkgs/pull/35313) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+2. 🗣 Commented on [#35313](https://github.com/microsoft/winget-pkgs/issues/35313) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+3. 💪 Opened PR [#35317](https://github.com/microsoft/winget-pkgs/pull/35317) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+4. 💪 Opened PR [#35315](https://github.com/microsoft/winget-pkgs/pull/35315) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+5. 💪 Opened PR [#35313](https://github.com/microsoft/winget-pkgs/pull/35313) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+6. 🎉 Merged PR [#38](https://github.com/snaildos/StreamBop/pull/38) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+7. 🎉 Merged PR [#58](https://github.com/snaildos/SnailFM-Application/pull/58) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+8. 🎉 Merged PR [#56](https://github.com/snaildos/SnailFM-Application/pull/56) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+9. 🎉 Merged PR [#57](https://github.com/snaildos/SnailFM-Application/pull/57) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+10. 🎉 Merged PR [#36](https://github.com/snaildos/StreamBop/pull/36) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
 <!--END_SECTION:activity-->
 Please join me, on discord.
 [discord](https://invite.gg/snaildos)
