@@ -24,16 +24,16 @@
 
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/snaildos/SnailFM-Application/pull/58) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-2. 🎉 Merged PR [#56](https://github.com/snaildos/SnailFM-Application/pull/56) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-3. 🎉 Merged PR [#57](https://github.com/snaildos/SnailFM-Application/pull/57) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-4. 🎉 Merged PR [#36](https://github.com/snaildos/StreamBop/pull/36) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-5. ❗️ Closed issue [#88](https://github.com/sindresorhus/is-online/issues/88) in [sindresorhus/is-online](https://github.com/sindresorhus/is-online)
-6. 🗣 Commented on [#88](https://github.com/sindresorhus/is-online/issues/88) in [sindresorhus/is-online](https://github.com/sindresorhus/is-online)
-7. ❗️ Opened issue [#88](https://github.com/sindresorhus/is-online/issues/88) in [sindresorhus/is-online](https://github.com/sindresorhus/is-online)
-8. 🎉 Merged PR [#5](https://github.com/snaildos/electron-with-snaildos-login/pull/5) in [snaildos/electron-with-snaildos-login](https://github.com/snaildos/electron-with-snaildos-login)
-9. 🎉 Merged PR [#35](https://github.com/snaildos/StreamBop/pull/35) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-10. 🎉 Merged PR [#4](https://github.com/snaildos/electron-with-snaildos-login/pull/4) in [snaildos/electron-with-snaildos-login](https://github.com/snaildos/electron-with-snaildos-login)
+1. 🎉 Merged PR [#38](https://github.com/snaildos/StreamBop/pull/38) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+2. 🎉 Merged PR [#58](https://github.com/snaildos/SnailFM-Application/pull/58) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+3. 🎉 Merged PR [#56](https://github.com/snaildos/SnailFM-Application/pull/56) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+4. 🎉 Merged PR [#57](https://github.com/snaildos/SnailFM-Application/pull/57) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+5. 🎉 Merged PR [#36](https://github.com/snaildos/StreamBop/pull/36) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+6. ❗️ Closed issue [#88](https://github.com/sindresorhus/is-online/issues/88) in [sindresorhus/is-online](https://github.com/sindresorhus/is-online)
+7. 🗣 Commented on [#88](https://github.com/sindresorhus/is-online/issues/88) in [sindresorhus/is-online](https://github.com/sindresorhus/is-online)
+8. ❗️ Opened issue [#88](https://github.com/sindresorhus/is-online/issues/88) in [sindresorhus/is-online](https://github.com/sindresorhus/is-online)
+9. 🎉 Merged PR [#5](https://github.com/snaildos/electron-with-snaildos-login/pull/5) in [snaildos/electron-with-snaildos-login](https://github.com/snaildos/electron-with-snaildos-login)
+10. 🎉 Merged PR [#35](https://github.com/snaildos/StreamBop/pull/35) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
 <!--END_SECTION:activity-->
 Please join me, on discord.
 [discord](https://invite.gg/snaildos)
