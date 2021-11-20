@@ -24,16 +24,16 @@
 
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#59](https://github.com/snaildos/SnailFM-Application/pull/59) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-2. 🗣 Commented on [#35317](https://github.com/microsoft/winget-pkgs/issues/35317) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-3. ❌ Closed PR [#35313](https://github.com/microsoft/winget-pkgs/pull/35313) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-4. 🗣 Commented on [#35313](https://github.com/microsoft/winget-pkgs/issues/35313) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-5. 💪 Opened PR [#35317](https://github.com/microsoft/winget-pkgs/pull/35317) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-6. 💪 Opened PR [#35315](https://github.com/microsoft/winget-pkgs/pull/35315) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-7. 💪 Opened PR [#35313](https://github.com/microsoft/winget-pkgs/pull/35313) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-8. 🎉 Merged PR [#38](https://github.com/snaildos/StreamBop/pull/38) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-9. 🎉 Merged PR [#58](https://github.com/snaildos/SnailFM-Application/pull/58) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-10. 🎉 Merged PR [#56](https://github.com/snaildos/SnailFM-Application/pull/56) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+1. ❗️ Opened issue [#31926](https://github.com/electron/electron/issues/31926) in [electron/electron](https://github.com/electron/electron)
+2. ❌ Closed PR [#59](https://github.com/snaildos/SnailFM-Application/pull/59) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+3. 🗣 Commented on [#35317](https://github.com/microsoft/winget-pkgs/issues/35317) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+4. ❌ Closed PR [#35313](https://github.com/microsoft/winget-pkgs/pull/35313) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+5. 🗣 Commented on [#35313](https://github.com/microsoft/winget-pkgs/issues/35313) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+6. 💪 Opened PR [#35317](https://github.com/microsoft/winget-pkgs/pull/35317) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+7. 💪 Opened PR [#35315](https://github.com/microsoft/winget-pkgs/pull/35315) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+8. 💪 Opened PR [#35313](https://github.com/microsoft/winget-pkgs/pull/35313) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+9. 🎉 Merged PR [#38](https://github.com/snaildos/StreamBop/pull/38) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+10. 🎉 Merged PR [#58](https://github.com/snaildos/SnailFM-Application/pull/58) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
 <!--END_SECTION:activity-->
 Please join me, on discord.
 [discord](https://invite.gg/snaildos)
