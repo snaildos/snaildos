@@ -24,16 +24,16 @@
 
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#587](https://github.com/Sank6/Discord-Bot-List/issues/587) in [Sank6/Discord-Bot-List](https://github.com/Sank6/Discord-Bot-List)
-2. 🗣 Commented on [#8](https://github.com/ForbesLindesay/uptime-robot/issues/8) in [ForbesLindesay/uptime-robot](https://github.com/ForbesLindesay/uptime-robot)
-3. 🗣 Commented on [#6](https://github.com/kt5company/discord-uptimerobot/issues/6) in [kt5company/discord-uptimerobot](https://github.com/kt5company/discord-uptimerobot)
-4. 🗣 Commented on [#29](https://github.com/nates/ward/issues/29) in [nates/ward](https://github.com/nates/ward)
-5. ❗️ Opened issue [#6](https://github.com/kt5company/discord-uptimerobot/issues/6) in [kt5company/discord-uptimerobot](https://github.com/kt5company/discord-uptimerobot)
-6. 💪 Opened PR [#29](https://github.com/nates/ward/pull/29) in [nates/ward](https://github.com/nates/ward)
-7. 🎉 Merged PR [#58](https://github.com/snaildos/Fifo-Browser/pull/58) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-8. 🎉 Merged PR [#42](https://github.com/snaildos/StreamBop/pull/42) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-9. 🎉 Merged PR [#63](https://github.com/snaildos/SnailFM-Application/pull/63) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-10. 🗣 Commented on [#8](https://github.com/ForbesLindesay/uptime-robot/issues/8) in [ForbesLindesay/uptime-robot](https://github.com/ForbesLindesay/uptime-robot)
+1. ❗️ Opened issue [#18010](https://github.com/go-gitea/gitea/issues/18010) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+2. ❗️ Closed issue [#587](https://github.com/Sank6/Discord-Bot-List/issues/587) in [Sank6/Discord-Bot-List](https://github.com/Sank6/Discord-Bot-List)
+3. 🗣 Commented on [#8](https://github.com/ForbesLindesay/uptime-robot/issues/8) in [ForbesLindesay/uptime-robot](https://github.com/ForbesLindesay/uptime-robot)
+4. 🗣 Commented on [#6](https://github.com/kt5company/discord-uptimerobot/issues/6) in [kt5company/discord-uptimerobot](https://github.com/kt5company/discord-uptimerobot)
+5. 🗣 Commented on [#29](https://github.com/nates/ward/issues/29) in [nates/ward](https://github.com/nates/ward)
+6. ❗️ Opened issue [#6](https://github.com/kt5company/discord-uptimerobot/issues/6) in [kt5company/discord-uptimerobot](https://github.com/kt5company/discord-uptimerobot)
+7. 💪 Opened PR [#29](https://github.com/nates/ward/pull/29) in [nates/ward](https://github.com/nates/ward)
+8. 🎉 Merged PR [#58](https://github.com/snaildos/Fifo-Browser/pull/58) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+9. 🎉 Merged PR [#42](https://github.com/snaildos/StreamBop/pull/42) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+10. 🎉 Merged PR [#63](https://github.com/snaildos/SnailFM-Application/pull/63) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
 <!--END_SECTION:activity-->
 Please join me, on discord.
 [discord](https://invite.gg/snaildos)
