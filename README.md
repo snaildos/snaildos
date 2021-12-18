@@ -24,16 +24,16 @@
 
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/snaildos/SnailChat/pull/24) in [snaildos/SnailChat](https://github.com/snaildos/SnailChat)
-2. 🎉 Merged PR [#43](https://github.com/snaildos/StreamBop/pull/43) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-3. 🗣 Commented on [#18010](https://github.com/go-gitea/gitea/issues/18010) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
-4. ❗️ Opened issue [#18010](https://github.com/go-gitea/gitea/issues/18010) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
-5. ❗️ Closed issue [#587](https://github.com/Sank6/Discord-Bot-List/issues/587) in [Sank6/Discord-Bot-List](https://github.com/Sank6/Discord-Bot-List)
-6. 🗣 Commented on [#8](https://github.com/ForbesLindesay/uptime-robot/issues/8) in [ForbesLindesay/uptime-robot](https://github.com/ForbesLindesay/uptime-robot)
-7. 🗣 Commented on [#6](https://github.com/kt5company/discord-uptimerobot/issues/6) in [kt5company/discord-uptimerobot](https://github.com/kt5company/discord-uptimerobot)
-8. 🗣 Commented on [#29](https://github.com/nates/ward/issues/29) in [nates/ward](https://github.com/nates/ward)
-9. ❗️ Opened issue [#6](https://github.com/kt5company/discord-uptimerobot/issues/6) in [kt5company/discord-uptimerobot](https://github.com/kt5company/discord-uptimerobot)
-10. 💪 Opened PR [#29](https://github.com/nates/ward/pull/29) in [nates/ward](https://github.com/nates/ward)
+1. 🗣 Commented on [#30024](https://github.com/electron/electron/issues/30024) in [electron/electron](https://github.com/electron/electron)
+2. 🗣 Commented on [#31559](https://github.com/electron/electron/issues/31559) in [electron/electron](https://github.com/electron/electron)
+3. 🗣 Commented on [#2059](https://github.com/pterodactyl/panel/issues/2059) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+4. 🎉 Merged PR [#24](https://github.com/snaildos/SnailChat/pull/24) in [snaildos/SnailChat](https://github.com/snaildos/SnailChat)
+5. 🎉 Merged PR [#43](https://github.com/snaildos/StreamBop/pull/43) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+6. 🗣 Commented on [#18010](https://github.com/go-gitea/gitea/issues/18010) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+7. ❗️ Opened issue [#18010](https://github.com/go-gitea/gitea/issues/18010) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+8. ❗️ Closed issue [#587](https://github.com/Sank6/Discord-Bot-List/issues/587) in [Sank6/Discord-Bot-List](https://github.com/Sank6/Discord-Bot-List)
+9. 🗣 Commented on [#8](https://github.com/ForbesLindesay/uptime-robot/issues/8) in [ForbesLindesay/uptime-robot](https://github.com/ForbesLindesay/uptime-robot)
+10. 🗣 Commented on [#6](https://github.com/kt5company/discord-uptimerobot/issues/6) in [kt5company/discord-uptimerobot](https://github.com/kt5company/discord-uptimerobot)
 <!--END_SECTION:activity-->
 Please join me, on discord.
 [discord](https://invite.gg/snaildos)
