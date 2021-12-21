@@ -24,16 +24,16 @@
 
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#335](https://github.com/ControlPanel-gg/dashboard/issues/335) in [ControlPanel-gg/dashboard](https://github.com/ControlPanel-gg/dashboard)
-2. 🗣 Commented on [#30024](https://github.com/electron/electron/issues/30024) in [electron/electron](https://github.com/electron/electron)
-3. 🗣 Commented on [#31559](https://github.com/electron/electron/issues/31559) in [electron/electron](https://github.com/electron/electron)
-4. 🗣 Commented on [#2059](https://github.com/pterodactyl/panel/issues/2059) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-5. 🎉 Merged PR [#24](https://github.com/snaildos/SnailChat/pull/24) in [snaildos/SnailChat](https://github.com/snaildos/SnailChat)
-6. 🎉 Merged PR [#43](https://github.com/snaildos/StreamBop/pull/43) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-7. 🗣 Commented on [#18010](https://github.com/go-gitea/gitea/issues/18010) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
-8. ❗️ Opened issue [#18010](https://github.com/go-gitea/gitea/issues/18010) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
-9. ❗️ Closed issue [#587](https://github.com/Sank6/Discord-Bot-List/issues/587) in [Sank6/Discord-Bot-List](https://github.com/Sank6/Discord-Bot-List)
-10. 🗣 Commented on [#8](https://github.com/ForbesLindesay/uptime-robot/issues/8) in [ForbesLindesay/uptime-robot](https://github.com/ForbesLindesay/uptime-robot)
+1. 🗣 Commented on [#1406](https://github.com/is-a-dev/register/issues/1406) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. ❗️ Opened issue [#335](https://github.com/ControlPanel-gg/dashboard/issues/335) in [ControlPanel-gg/dashboard](https://github.com/ControlPanel-gg/dashboard)
+3. 🗣 Commented on [#30024](https://github.com/electron/electron/issues/30024) in [electron/electron](https://github.com/electron/electron)
+4. 🗣 Commented on [#31559](https://github.com/electron/electron/issues/31559) in [electron/electron](https://github.com/electron/electron)
+5. 🗣 Commented on [#2059](https://github.com/pterodactyl/panel/issues/2059) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+6. 🎉 Merged PR [#24](https://github.com/snaildos/SnailChat/pull/24) in [snaildos/SnailChat](https://github.com/snaildos/SnailChat)
+7. 🎉 Merged PR [#43](https://github.com/snaildos/StreamBop/pull/43) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+8. 🗣 Commented on [#18010](https://github.com/go-gitea/gitea/issues/18010) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+9. ❗️ Opened issue [#18010](https://github.com/go-gitea/gitea/issues/18010) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+10. ❗️ Closed issue [#587](https://github.com/Sank6/Discord-Bot-List/issues/587) in [Sank6/Discord-Bot-List](https://github.com/Sank6/Discord-Bot-List)
 <!--END_SECTION:activity-->
 Please join me, on discord.
 [discord](https://invite.gg/snaildos)
