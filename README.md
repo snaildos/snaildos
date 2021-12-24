@@ -24,16 +24,16 @@
 
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#64](https://github.com/snaildos/SnailFM-Application/pull/64) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-2. 🗣 Commented on [#342](https://github.com/ControlPanel-gg/dashboard/issues/342) in [ControlPanel-gg/dashboard](https://github.com/ControlPanel-gg/dashboard)
-3. 🗣 Commented on [#1406](https://github.com/is-a-dev/register/issues/1406) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. ❗️ Opened issue [#335](https://github.com/ControlPanel-gg/dashboard/issues/335) in [ControlPanel-gg/dashboard](https://github.com/ControlPanel-gg/dashboard)
-5. 🗣 Commented on [#30024](https://github.com/electron/electron/issues/30024) in [electron/electron](https://github.com/electron/electron)
-6. 🗣 Commented on [#31559](https://github.com/electron/electron/issues/31559) in [electron/electron](https://github.com/electron/electron)
-7. 🗣 Commented on [#2059](https://github.com/pterodactyl/panel/issues/2059) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-8. 🎉 Merged PR [#24](https://github.com/snaildos/SnailChat/pull/24) in [snaildos/SnailChat](https://github.com/snaildos/SnailChat)
-9. 🎉 Merged PR [#43](https://github.com/snaildos/StreamBop/pull/43) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-10. 🗣 Commented on [#18010](https://github.com/go-gitea/gitea/issues/18010) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+1. 💪 Opened PR [#92](https://github.com/snaildos/SnailDOS-Desktop/pull/92) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+2. ❗️ Opened issue [#90](https://github.com/snaildos/snailportal-app/issues/90) in [snaildos/snailportal-app](https://github.com/snaildos/snailportal-app)
+3. 🎉 Merged PR [#64](https://github.com/snaildos/SnailFM-Application/pull/64) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+4. 🗣 Commented on [#342](https://github.com/ControlPanel-gg/dashboard/issues/342) in [ControlPanel-gg/dashboard](https://github.com/ControlPanel-gg/dashboard)
+5. 🗣 Commented on [#1406](https://github.com/is-a-dev/register/issues/1406) in [is-a-dev/register](https://github.com/is-a-dev/register)
+6. ❗️ Opened issue [#335](https://github.com/ControlPanel-gg/dashboard/issues/335) in [ControlPanel-gg/dashboard](https://github.com/ControlPanel-gg/dashboard)
+7. 🗣 Commented on [#30024](https://github.com/electron/electron/issues/30024) in [electron/electron](https://github.com/electron/electron)
+8. 🗣 Commented on [#31559](https://github.com/electron/electron/issues/31559) in [electron/electron](https://github.com/electron/electron)
+9. 🗣 Commented on [#2059](https://github.com/pterodactyl/panel/issues/2059) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+10. 🎉 Merged PR [#24](https://github.com/snaildos/SnailChat/pull/24) in [snaildos/SnailChat](https://github.com/snaildos/SnailChat)
 <!--END_SECTION:activity-->
 Please join me, on discord.
 [discord](https://invite.gg/snaildos)
