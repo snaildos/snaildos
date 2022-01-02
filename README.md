@@ -24,16 +24,16 @@
 
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/snaildos/message-backup-bot/pull/1) in [snaildos/message-backup-bot](https://github.com/snaildos/message-backup-bot)
-2. ❌ Reopened PR [#1](https://github.com/snaildos/message-backup-bot/pull/1) in [snaildos/message-backup-bot](https://github.com/snaildos/message-backup-bot)
-3. ❌ Closed PR [#1](https://github.com/snaildos/message-backup-bot/pull/1) in [snaildos/message-backup-bot](https://github.com/snaildos/message-backup-bot)
-4. ❌ Reopened PR [#1](https://github.com/snaildos/message-backup-bot/pull/1) in [snaildos/message-backup-bot](https://github.com/snaildos/message-backup-bot)
-5. ❌ Closed PR [#1](https://github.com/snaildos/message-backup-bot/pull/1) in [snaildos/message-backup-bot](https://github.com/snaildos/message-backup-bot)
-6. 💪 Opened PR [#1](https://github.com/snaildos/message-backup-bot/pull/1) in [snaildos/message-backup-bot](https://github.com/snaildos/message-backup-bot)
-7. 🎉 Merged PR [#92](https://github.com/snaildos/SnailDOS-Desktop/pull/92) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-8. 🗣 Commented on [#37](https://github.com/snaildos/SnailDOS-Desktop/issues/37) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-9. 💪 Opened PR [#92](https://github.com/snaildos/SnailDOS-Desktop/pull/92) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-10. ❗️ Opened issue [#90](https://github.com/snaildos/snailportal-app/issues/90) in [snaildos/snailportal-app](https://github.com/snaildos/snailportal-app)
+1. 🎉 Merged PR [#63](https://github.com/snaildos/SnailDOS-Desktop/pull/63) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+2. 🎉 Merged PR [#71](https://github.com/snaildos/SnailDOS-Desktop/pull/71) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+3. 🎉 Merged PR [#70](https://github.com/snaildos/SnailDOS-Desktop/pull/70) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+4. 🎉 Merged PR [#77](https://github.com/snaildos/SnailDOS-Desktop/pull/77) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+5. 🎉 Merged PR [#78](https://github.com/snaildos/SnailDOS-Desktop/pull/78) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+6. 🎉 Merged PR [#83](https://github.com/snaildos/SnailDOS-Desktop/pull/83) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+7. 🎉 Merged PR [#91](https://github.com/snaildos/SnailDOS-Desktop/pull/91) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+8. 🎉 Merged PR [#1](https://github.com/snaildos/message-backup-bot/pull/1) in [snaildos/message-backup-bot](https://github.com/snaildos/message-backup-bot)
+9. ❌ Reopened PR [#1](https://github.com/snaildos/message-backup-bot/pull/1) in [snaildos/message-backup-bot](https://github.com/snaildos/message-backup-bot)
+10. ❌ Closed PR [#1](https://github.com/snaildos/message-backup-bot/pull/1) in [snaildos/message-backup-bot](https://github.com/snaildos/message-backup-bot)
 <!--END_SECTION:activity-->
 Please join me, on discord.
 [discord](https://invite.gg/snaildos)
