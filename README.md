@@ -24,16 +24,16 @@
 
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#99](https://github.com/snaildos/SnailDOS-Desktop/pull/99) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-2. 🎉 Merged PR [#98](https://github.com/snaildos/SnailDOS-Desktop/pull/98) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-3. 💪 Opened PR [#98](https://github.com/snaildos/SnailDOS-Desktop/pull/98) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-4. ❗️ Closed issue [#37](https://github.com/snaildos/SnailDOS-Desktop/issues/37) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-5. ❗️ Closed issue [#90](https://github.com/snaildos/SnailDOS-Desktop/issues/90) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-6. 🎉 Merged PR [#97](https://github.com/snaildos/SnailDOS-Desktop/pull/97) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-7. 💪 Opened PR [#97](https://github.com/snaildos/SnailDOS-Desktop/pull/97) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-8. 🎉 Merged PR [#96](https://github.com/snaildos/SnailDOS-Desktop/pull/96) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-9. 💪 Opened PR [#96](https://github.com/snaildos/SnailDOS-Desktop/pull/96) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-10. 🎉 Merged PR [#95](https://github.com/snaildos/SnailDOS-Desktop/pull/95) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+1. 🎉 Merged PR [#102](https://github.com/snaildos/SnailDOS-Desktop/pull/102) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+2. 🎉 Merged PR [#101](https://github.com/snaildos/SnailDOS-Desktop/pull/101) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+3. 💪 Opened PR [#99](https://github.com/snaildos/SnailDOS-Desktop/pull/99) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+4. 🎉 Merged PR [#98](https://github.com/snaildos/SnailDOS-Desktop/pull/98) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+5. 💪 Opened PR [#98](https://github.com/snaildos/SnailDOS-Desktop/pull/98) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+6. ❗️ Closed issue [#37](https://github.com/snaildos/SnailDOS-Desktop/issues/37) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+7. ❗️ Closed issue [#90](https://github.com/snaildos/SnailDOS-Desktop/issues/90) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+8. 🎉 Merged PR [#97](https://github.com/snaildos/SnailDOS-Desktop/pull/97) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+9. 💪 Opened PR [#97](https://github.com/snaildos/SnailDOS-Desktop/pull/97) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+10. 🎉 Merged PR [#96](https://github.com/snaildos/SnailDOS-Desktop/pull/96) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
 <!--END_SECTION:activity-->
 Please join me, on discord.
 [discord](https://invite.gg/snaildos)
