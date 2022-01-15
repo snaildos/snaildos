@@ -24,16 +24,16 @@
 
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30024](https://github.com/electron/electron/issues/30024) in [electron/electron](https://github.com/electron/electron)
-2. 🎉 Merged PR [#107](https://github.com/snaildos/SnailDOS-Desktop/pull/107) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-3. 🗣 Commented on [#31559](https://github.com/electron/electron/issues/31559) in [electron/electron](https://github.com/electron/electron)
-4. 🗣 Commented on [#105](https://github.com/snaildos/SnailDOS-Desktop/issues/105) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-5. ❗️ Closed issue [#105](https://github.com/snaildos/SnailDOS-Desktop/issues/105) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-6. 🎉 Merged PR [#106](https://github.com/snaildos/SnailDOS-Desktop/pull/106) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-7. 🗣 Commented on [#105](https://github.com/snaildos/SnailDOS-Desktop/issues/105) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-8. 🎉 Merged PR [#3](https://github.com/snaildos/message-backup-bot/pull/3) in [snaildos/message-backup-bot](https://github.com/snaildos/message-backup-bot)
-9. 🗣 Commented on [#10](https://github.com/actions/first-interaction/issues/10) in [actions/first-interaction](https://github.com/actions/first-interaction)
-10. 🗣 Commented on [#25](https://github.com/kybarg/bootstrap-dropdown-hover/issues/25) in [kybarg/bootstrap-dropdown-hover](https://github.com/kybarg/bootstrap-dropdown-hover)
+1. ❗️ Opened issue [#48](https://github.com/snaildos/StreamBop/issues/48) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+2. 🎉 Merged PR [#44](https://github.com/snaildos/StreamBop/pull/44) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+3. 🎉 Merged PR [#47](https://github.com/snaildos/StreamBop/pull/47) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+4. 🎉 Merged PR [#46](https://github.com/snaildos/StreamBop/pull/46) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+5. 🎉 Merged PR [#45](https://github.com/snaildos/StreamBop/pull/45) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+6. 🗣 Commented on [#30024](https://github.com/electron/electron/issues/30024) in [electron/electron](https://github.com/electron/electron)
+7. 🎉 Merged PR [#107](https://github.com/snaildos/SnailDOS-Desktop/pull/107) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+8. 🗣 Commented on [#31559](https://github.com/electron/electron/issues/31559) in [electron/electron](https://github.com/electron/electron)
+9. 🗣 Commented on [#105](https://github.com/snaildos/SnailDOS-Desktop/issues/105) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+10. ❗️ Closed issue [#105](https://github.com/snaildos/SnailDOS-Desktop/issues/105) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
 <!--END_SECTION:activity-->
 Please join me, on discord.
 [discord](https://invite.gg/snaildos)
