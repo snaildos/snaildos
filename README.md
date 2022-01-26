@@ -25,14 +25,14 @@
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#124](https://github.com/gekware/minecraft-server-hibernation/issues/124) in [gekware/minecraft-server-hibernation](https://github.com/gekware/minecraft-server-hibernation)
-2. ❗️ Closed issue [#48](https://github.com/snaildos/StreamBop/issues/48) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-3. ❗️ Opened issue [#637](https://github.com/wexond/browser-base/issues/637) in [wexond/browser-base](https://github.com/wexond/browser-base)
-4. 🎉 Merged PR [#68](https://github.com/snaildos/Fifo-Browser/pull/68) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-5. 🎉 Merged PR [#65](https://github.com/snaildos/Fifo-Browser/pull/65) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-6. 🎉 Merged PR [#70](https://github.com/snaildos/Fifo-Browser/pull/70) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-7. 🎉 Merged PR [#67](https://github.com/snaildos/Fifo-Browser/pull/67) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-8. 🗣 Commented on [#850](https://github.com/parkervcp/eggs/issues/850) in [parkervcp/eggs](https://github.com/parkervcp/eggs)
-9. 🗣 Commented on [#3](https://github.com/snaildos/message-backup-bot/issues/3) in [snaildos/message-backup-bot](https://github.com/snaildos/message-backup-bot)
+2. 🗣 Commented on [#124](https://github.com/gekware/minecraft-server-hibernation/issues/124) in [gekware/minecraft-server-hibernation](https://github.com/gekware/minecraft-server-hibernation)
+3. ❗️ Closed issue [#48](https://github.com/snaildos/StreamBop/issues/48) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+4. ❗️ Opened issue [#637](https://github.com/wexond/browser-base/issues/637) in [wexond/browser-base](https://github.com/wexond/browser-base)
+5. 🎉 Merged PR [#68](https://github.com/snaildos/Fifo-Browser/pull/68) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+6. 🎉 Merged PR [#65](https://github.com/snaildos/Fifo-Browser/pull/65) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+7. 🎉 Merged PR [#70](https://github.com/snaildos/Fifo-Browser/pull/70) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+8. 🎉 Merged PR [#67](https://github.com/snaildos/Fifo-Browser/pull/67) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+9. 🗣 Commented on [#850](https://github.com/parkervcp/eggs/issues/850) in [parkervcp/eggs](https://github.com/parkervcp/eggs)
 10. 🗣 Commented on [#3](https://github.com/snaildos/message-backup-bot/issues/3) in [snaildos/message-backup-bot](https://github.com/snaildos/message-backup-bot)
 <!--END_SECTION:activity-->
 Please join me, on discord.
