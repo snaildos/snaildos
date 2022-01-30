@@ -25,15 +25,15 @@
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/Futuristic-Development/FutureBoard-v0.1/issues/3) in [Futuristic-Development/FutureBoard-v0.1](https://github.com/Futuristic-Development/FutureBoard-v0.1)
-2. 💪 Opened PR [#5](https://github.com/Futuristic-Development/FutureBoard-v0.1/pull/5) in [Futuristic-Development/FutureBoard-v0.1](https://github.com/Futuristic-Development/FutureBoard-v0.1)
-3. ❗️ Closed issue [#2499](https://github.com/sameersbn/docker-gitlab/issues/2499) in [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab)
-4. 🗣 Commented on [#2499](https://github.com/sameersbn/docker-gitlab/issues/2499) in [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab)
-5. 🗣 Commented on [#2499](https://github.com/sameersbn/docker-gitlab/issues/2499) in [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab)
-6. 🗣 Commented on [#2499](https://github.com/sameersbn/docker-gitlab/issues/2499) in [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab)
+2. 🗣 Commented on [#5](https://github.com/Futuristic-Development/FutureBoard-v0.1/issues/5) in [Futuristic-Development/FutureBoard-v0.1](https://github.com/Futuristic-Development/FutureBoard-v0.1)
+3. ❌ Closed PR [#5](https://github.com/Futuristic-Development/FutureBoard-v0.1/pull/5) in [Futuristic-Development/FutureBoard-v0.1](https://github.com/Futuristic-Development/FutureBoard-v0.1)
+4. 🗣 Commented on [#3](https://github.com/Futuristic-Development/FutureBoard-v0.1/issues/3) in [Futuristic-Development/FutureBoard-v0.1](https://github.com/Futuristic-Development/FutureBoard-v0.1)
+5. 💪 Opened PR [#5](https://github.com/Futuristic-Development/FutureBoard-v0.1/pull/5) in [Futuristic-Development/FutureBoard-v0.1](https://github.com/Futuristic-Development/FutureBoard-v0.1)
+6. ❗️ Closed issue [#2499](https://github.com/sameersbn/docker-gitlab/issues/2499) in [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab)
 7. 🗣 Commented on [#2499](https://github.com/sameersbn/docker-gitlab/issues/2499) in [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab)
 8. 🗣 Commented on [#2499](https://github.com/sameersbn/docker-gitlab/issues/2499) in [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab)
-9. ❗️ Opened issue [#2499](https://github.com/sameersbn/docker-gitlab/issues/2499) in [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab)
-10. 🎉 Merged PR [#68](https://github.com/snaildos/SnailFM-Application/pull/68) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+9. 🗣 Commented on [#2499](https://github.com/sameersbn/docker-gitlab/issues/2499) in [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab)
+10. 🗣 Commented on [#2499](https://github.com/sameersbn/docker-gitlab/issues/2499) in [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab)
 <!--END_SECTION:activity-->
 Please join me, on discord.
 [discord](https://invite.gg/snaildos)
