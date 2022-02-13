@@ -24,16 +24,16 @@
 
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#117](https://github.com/snaildos/SnailDOS-Desktop/pull/117) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-2. 🎉 Merged PR [#115](https://github.com/snaildos/SnailDOS-Desktop/pull/115) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-3. 🎉 Merged PR [#116](https://github.com/snaildos/SnailDOS-Desktop/pull/116) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-4. 🎉 Merged PR [#109](https://github.com/snaildos/SnailDOS-Desktop/pull/109) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-5. 🎉 Merged PR [#118](https://github.com/snaildos/SnailDOS-Desktop/pull/118) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-6. 🗣 Commented on [#59](https://github.com/snaildos/Fifo-Browser/issues/59) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-7. 🎉 Merged PR [#114](https://github.com/snaildos/SnailDOS-Desktop/pull/114) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-8. 🗣 Commented on [#2564](https://github.com/pterodactyl/panel/issues/2564) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+1. 🗣 Commented on [#59](https://github.com/snaildos/Fifo-Browser/issues/59) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+2. 🎉 Merged PR [#117](https://github.com/snaildos/SnailDOS-Desktop/pull/117) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+3. 🎉 Merged PR [#115](https://github.com/snaildos/SnailDOS-Desktop/pull/115) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+4. 🎉 Merged PR [#116](https://github.com/snaildos/SnailDOS-Desktop/pull/116) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+5. 🎉 Merged PR [#109](https://github.com/snaildos/SnailDOS-Desktop/pull/109) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+6. 🎉 Merged PR [#118](https://github.com/snaildos/SnailDOS-Desktop/pull/118) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+7. 🗣 Commented on [#59](https://github.com/snaildos/Fifo-Browser/issues/59) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+8. 🎉 Merged PR [#114](https://github.com/snaildos/SnailDOS-Desktop/pull/114) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
 9. 🗣 Commented on [#2564](https://github.com/pterodactyl/panel/issues/2564) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-10. 🗣 Commented on [#639](https://github.com/wexond/browser-base/issues/639) in [wexond/browser-base](https://github.com/wexond/browser-base)
+10. 🗣 Commented on [#2564](https://github.com/pterodactyl/panel/issues/2564) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
 <!--END_SECTION:activity-->
 Please join me, on discord.
 [discord](https://invite.gg/snaildos)
