@@ -24,16 +24,16 @@
 
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#52](https://github.com/snaildos/Fifo-Browser/issues/52) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-2. 🗣 Commented on [#52](https://github.com/snaildos/Fifo-Browser/issues/52) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-3. 🗣 Commented on [#59](https://github.com/snaildos/Fifo-Browser/issues/59) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-4. 🎉 Merged PR [#117](https://github.com/snaildos/SnailDOS-Desktop/pull/117) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-5. 🎉 Merged PR [#115](https://github.com/snaildos/SnailDOS-Desktop/pull/115) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-6. 🎉 Merged PR [#116](https://github.com/snaildos/SnailDOS-Desktop/pull/116) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-7. 🎉 Merged PR [#109](https://github.com/snaildos/SnailDOS-Desktop/pull/109) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-8. 🎉 Merged PR [#118](https://github.com/snaildos/SnailDOS-Desktop/pull/118) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-9. 🗣 Commented on [#59](https://github.com/snaildos/Fifo-Browser/issues/59) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-10. 🎉 Merged PR [#114](https://github.com/snaildos/SnailDOS-Desktop/pull/114) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+1. ❗️ Opened issue [#3972](https://github.com/pterodactyl/panel/issues/3972) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+2. ❗️ Opened issue [#2](https://github.com/gekware/minecraft-server-hibernation-pterodactyl-egg/issues/2) in [gekware/minecraft-server-hibernation-pterodactyl-egg](https://github.com/gekware/minecraft-server-hibernation-pterodactyl-egg)
+3. ❗️ Closed issue [#52](https://github.com/snaildos/Fifo-Browser/issues/52) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+4. 🗣 Commented on [#52](https://github.com/snaildos/Fifo-Browser/issues/52) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+5. 🗣 Commented on [#59](https://github.com/snaildos/Fifo-Browser/issues/59) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+6. 🎉 Merged PR [#117](https://github.com/snaildos/SnailDOS-Desktop/pull/117) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+7. 🎉 Merged PR [#115](https://github.com/snaildos/SnailDOS-Desktop/pull/115) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+8. 🎉 Merged PR [#116](https://github.com/snaildos/SnailDOS-Desktop/pull/116) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+9. 🎉 Merged PR [#109](https://github.com/snaildos/SnailDOS-Desktop/pull/109) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+10. 🎉 Merged PR [#118](https://github.com/snaildos/SnailDOS-Desktop/pull/118) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
 <!--END_SECTION:activity-->
 Please join me, on discord.
 [discord](https://invite.gg/snaildos)
