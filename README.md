@@ -10,7 +10,8 @@ d<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzca
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=snaildos&label=Profile%20views&color=0e75b6&style=flat" alt="snaildos" /> </p>
 
 <div align="center">
-- 🔭 I’m currently working on [StreamBop](https://snaildos.com/streambop)
+
+- 🔭 I’m currently working on [StreamBop](https://snaildos.com/streambop
 
 - 🌱 I’m currently learning **C++, JS and CSS**
 
