@@ -47,16 +47,16 @@ No Activity tracked this Week
 
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#78](https://github.com/athul/waka-readme/issues/78) in [athul/waka-readme](https://github.com/athul/waka-readme)
-2. ❗️ Closed issue [#78](https://github.com/athul/waka-readme/issues/78) in [athul/waka-readme](https://github.com/athul/waka-readme)
-3. ❗️ Opened issue [#78](https://github.com/athul/waka-readme/issues/78) in [athul/waka-readme](https://github.com/athul/waka-readme)
-4. 🗣 Commented on [#20025](https://github.com/timburgan/timburgan/issues/20025) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-5. ❗️ Opened issue [#20025](https://github.com/timburgan/timburgan/issues/20025) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-6. ❗️ Closed issue [#3972](https://github.com/pterodactyl/panel/issues/3972) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-7. 🗣 Commented on [#2623](https://github.com/pterodactyl/panel/issues/2623) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-8. 🗣 Commented on [#9](https://github.com/Reliactyl/Reliactyl/issues/9) in [Reliactyl/Reliactyl](https://github.com/Reliactyl/Reliactyl)
-9. 🗣 Commented on [#2](https://github.com/gekware/minecraft-server-hibernation-pterodactyl-egg/issues/2) in [gekware/minecraft-server-hibernation-pterodactyl-egg](https://github.com/gekware/minecraft-server-hibernation-pterodactyl-egg)
-10. ❗️ Opened issue [#3972](https://github.com/pterodactyl/panel/issues/3972) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+1. 🎉 Merged PR [#119](https://github.com/snaildos/SnailDOS-Desktop/pull/119) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+2. 🎉 Merged PR [#120](https://github.com/snaildos/SnailDOS-Desktop/pull/120) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+3. 🎉 Merged PR [#121](https://github.com/snaildos/SnailDOS-Desktop/pull/121) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+4. 🎉 Merged PR [#122](https://github.com/snaildos/SnailDOS-Desktop/pull/122) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+5. 🗣 Commented on [#78](https://github.com/athul/waka-readme/issues/78) in [athul/waka-readme](https://github.com/athul/waka-readme)
+6. ❗️ Closed issue [#78](https://github.com/athul/waka-readme/issues/78) in [athul/waka-readme](https://github.com/athul/waka-readme)
+7. ❗️ Opened issue [#78](https://github.com/athul/waka-readme/issues/78) in [athul/waka-readme](https://github.com/athul/waka-readme)
+8. 🗣 Commented on [#20025](https://github.com/timburgan/timburgan/issues/20025) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+9. ❗️ Opened issue [#20025](https://github.com/timburgan/timburgan/issues/20025) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+10. ❗️ Closed issue [#3972](https://github.com/pterodactyl/panel/issues/3972) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
 <!--END_SECTION:activity-->
 
 Please join me, on discord.
