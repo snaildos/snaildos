@@ -47,16 +47,16 @@ No Activity tracked this Week
 
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20025](https://github.com/timburgan/timburgan/issues/20025) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-2. ❗️ Opened issue [#20025](https://github.com/timburgan/timburgan/issues/20025) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. ❗️ Closed issue [#3972](https://github.com/pterodactyl/panel/issues/3972) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-4. 🗣 Commented on [#2623](https://github.com/pterodactyl/panel/issues/2623) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-5. 🗣 Commented on [#9](https://github.com/Reliactyl/Reliactyl/issues/9) in [Reliactyl/Reliactyl](https://github.com/Reliactyl/Reliactyl)
-6. 🗣 Commented on [#2](https://github.com/gekware/minecraft-server-hibernation-pterodactyl-egg/issues/2) in [gekware/minecraft-server-hibernation-pterodactyl-egg](https://github.com/gekware/minecraft-server-hibernation-pterodactyl-egg)
-7. ❗️ Opened issue [#3972](https://github.com/pterodactyl/panel/issues/3972) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-8. ❗️ Opened issue [#2](https://github.com/gekware/minecraft-server-hibernation-pterodactyl-egg/issues/2) in [gekware/minecraft-server-hibernation-pterodactyl-egg](https://github.com/gekware/minecraft-server-hibernation-pterodactyl-egg)
-9. ❗️ Closed issue [#52](https://github.com/snaildos/Fifo-Browser/issues/52) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-10. 🗣 Commented on [#52](https://github.com/snaildos/Fifo-Browser/issues/52) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+1. 🗣 Commented on [#78](https://github.com/athul/waka-readme/issues/78) in [athul/waka-readme](https://github.com/athul/waka-readme)
+2. ❗️ Closed issue [#78](https://github.com/athul/waka-readme/issues/78) in [athul/waka-readme](https://github.com/athul/waka-readme)
+3. ❗️ Opened issue [#78](https://github.com/athul/waka-readme/issues/78) in [athul/waka-readme](https://github.com/athul/waka-readme)
+4. 🗣 Commented on [#20025](https://github.com/timburgan/timburgan/issues/20025) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+5. ❗️ Opened issue [#20025](https://github.com/timburgan/timburgan/issues/20025) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+6. ❗️ Closed issue [#3972](https://github.com/pterodactyl/panel/issues/3972) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+7. 🗣 Commented on [#2623](https://github.com/pterodactyl/panel/issues/2623) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+8. 🗣 Commented on [#9](https://github.com/Reliactyl/Reliactyl/issues/9) in [Reliactyl/Reliactyl](https://github.com/Reliactyl/Reliactyl)
+9. 🗣 Commented on [#2](https://github.com/gekware/minecraft-server-hibernation-pterodactyl-egg/issues/2) in [gekware/minecraft-server-hibernation-pterodactyl-egg](https://github.com/gekware/minecraft-server-hibernation-pterodactyl-egg)
+10. ❗️ Opened issue [#3972](https://github.com/pterodactyl/panel/issues/3972) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
 <!--END_SECTION:activity-->
 
 Please join me, on discord.
