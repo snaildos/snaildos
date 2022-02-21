@@ -1,6 +1,6 @@
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="center">Full time owner on SnailDOS! I run SnailDOS along with the team! I enjoy software engineering and frontend!</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I%20Love%20Helping%20OpenSource;Check+Out+My+Repos)](https://snaildos.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7BD27&center=true&multiline=true&lines=I+love+coding!;I+love+helping+open+source!;So%2C+check+my+repos+and+follow+me!+;Star+my+work!+It+keeps+me+motivated.)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snaildos&label=Profile%20views&color=0e75b6&style=flat" alt="snaildos" /> </p>
 
