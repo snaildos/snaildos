@@ -1,4 +1,4 @@
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+d<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="center">Full time owner on SnailDOS! I run SnailDOS along with the team! I enjoy software engineering and frontend!</h3>
 
 <div align="center">
@@ -9,6 +9,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=snaildos&label=Profile%20views&color=0e75b6&style=flat" alt="snaildos" /> </p>
 
+<div align="center">
 - 🔭 I’m currently working on [StreamBop](https://snaildos.com/streambop)
 
 - 🌱 I’m currently learning **C++, JS and CSS**
@@ -24,9 +25,10 @@
 - 📫 How to reach me **snaildos@snaildos.com**
 
 - 📄 Know about my experiences [https://snaildos.com](https://snaildos.com)
+</div>
 
+<p align="center">📊 **What have I been doing this week?:**</p>
 <div align="center">
-📊 **What have I been doing this week?:**
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
