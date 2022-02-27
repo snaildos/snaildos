@@ -51,16 +51,16 @@ Vue.js       15 mins         ██░░░░░░░░░░░░░░░
 
 ## Here is my activity ^w^
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/snaildos/StreamBop/pull/52) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-2. 🎉 Merged PR [#53](https://github.com/snaildos/StreamBop/pull/53) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-3. 🎉 Merged PR [#54](https://github.com/snaildos/StreamBop/pull/54) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-4. 🎉 Merged PR [#55](https://github.com/snaildos/StreamBop/pull/55) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-5. 🎉 Merged PR [#70](https://github.com/snaildos/SnailFM-Application/pull/70) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-6. 🎉 Merged PR [#71](https://github.com/snaildos/SnailFM-Application/pull/71) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-7. 🎉 Merged PR [#69](https://github.com/snaildos/SnailFM-Application/pull/69) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-8. 🎉 Merged PR [#72](https://github.com/snaildos/SnailFM-Application/pull/72) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-9. 🎉 Merged PR [#119](https://github.com/snaildos/SnailDOS-Desktop/pull/119) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-10. 🎉 Merged PR [#120](https://github.com/snaildos/SnailDOS-Desktop/pull/120) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+1. ❗️ Closed issue [#76](https://github.com/snaildos/Fifo-Browser/issues/76) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+2. 🗣 Commented on [#76](https://github.com/snaildos/Fifo-Browser/issues/76) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+3. 🎉 Merged PR [#52](https://github.com/snaildos/StreamBop/pull/52) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+4. 🎉 Merged PR [#53](https://github.com/snaildos/StreamBop/pull/53) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+5. 🎉 Merged PR [#54](https://github.com/snaildos/StreamBop/pull/54) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+6. 🎉 Merged PR [#55](https://github.com/snaildos/StreamBop/pull/55) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+7. 🎉 Merged PR [#70](https://github.com/snaildos/SnailFM-Application/pull/70) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+8. 🎉 Merged PR [#71](https://github.com/snaildos/SnailFM-Application/pull/71) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+9. 🎉 Merged PR [#69](https://github.com/snaildos/SnailFM-Application/pull/69) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+10. 🎉 Merged PR [#72](https://github.com/snaildos/SnailFM-Application/pull/72) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
 <!--END_SECTION:activity-->
 
 Please join me, on discord.
