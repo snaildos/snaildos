@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of our projects are available at [https://snaildos.com](https://snaildos.com)
 
-- 💬 Ask musabout **anything!**
+- 💬 Ask us about **anything!**
 
 - 📫 How to reach us **snaildos@snaildos.com**
 
