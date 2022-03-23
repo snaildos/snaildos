@@ -49,14 +49,14 @@ Other        3 mins          ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#81](https://github.com/snaildos/Fifo-Browser/issues/81) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
 2. 🗣 Commented on [#81](https://github.com/snaildos/Fifo-Browser/issues/81) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-3. 🗣 Commented on [#80](https://github.com/snaildos/Fifo-Browser/issues/80) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-4. 🗣 Commented on [#2](https://github.com/gekware/minecraft-server-hibernation-pterodactyl-egg/issues/2) in [gekware/minecraft-server-hibernation-pterodactyl-egg](https://github.com/gekware/minecraft-server-hibernation-pterodactyl-egg)
-5. 🎉 Merged PR [#79](https://github.com/snaildos/Fifo-Browser/pull/79) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-6. 🗣 Commented on [#1](https://github.com/snaildos/SnailDOS-Blog/issues/1) in [snaildos/SnailDOS-Blog](https://github.com/snaildos/SnailDOS-Blog)
-7. 🎉 Merged PR [#129](https://github.com/snaildos/SnailDOS-Desktop/pull/129) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-8. 🎉 Merged PR [#128](https://github.com/snaildos/SnailDOS-Desktop/pull/128) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-9. 🎉 Merged PR [#127](https://github.com/snaildos/SnailDOS-Desktop/pull/127) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-10. 🎉 Merged PR [#78](https://github.com/snaildos/Fifo-Browser/pull/78) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+3. 🗣 Commented on [#81](https://github.com/snaildos/Fifo-Browser/issues/81) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+4. 🗣 Commented on [#81](https://github.com/snaildos/Fifo-Browser/issues/81) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+5. 🗣 Commented on [#80](https://github.com/snaildos/Fifo-Browser/issues/80) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+6. 🗣 Commented on [#2](https://github.com/gekware/minecraft-server-hibernation-pterodactyl-egg/issues/2) in [gekware/minecraft-server-hibernation-pterodactyl-egg](https://github.com/gekware/minecraft-server-hibernation-pterodactyl-egg)
+7. 🎉 Merged PR [#79](https://github.com/snaildos/Fifo-Browser/pull/79) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+8. 🗣 Commented on [#1](https://github.com/snaildos/SnailDOS-Blog/issues/1) in [snaildos/SnailDOS-Blog](https://github.com/snaildos/SnailDOS-Blog)
+9. 🎉 Merged PR [#129](https://github.com/snaildos/SnailDOS-Desktop/pull/129) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+10. 🎉 Merged PR [#128](https://github.com/snaildos/SnailDOS-Desktop/pull/128) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
 <!--END_SECTION:activity-->
 
 Please join us, on discord.
