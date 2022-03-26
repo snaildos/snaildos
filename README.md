@@ -48,14 +48,14 @@ Markdown     1 min           ▒░░░░░░░░░░░░░░░░
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/snaildos/Tetris/pull/6) in [snaildos/Tetris](https://github.com/snaildos/Tetris)
-2. ❌ Closed PR [#7](https://github.com/snaildos/Tetris/pull/7) in [snaildos/Tetris](https://github.com/snaildos/Tetris)
-3. 🎉 Merged PR [#8](https://github.com/snaildos/Tetris/pull/8) in [snaildos/Tetris](https://github.com/snaildos/Tetris)
-4. 🗣 Commented on [#6](https://github.com/kt5company/discord-uptimerobot/issues/6) in [kt5company/discord-uptimerobot](https://github.com/kt5company/discord-uptimerobot)
-5. 💪 Opened PR [#82](https://github.com/snaildos/Fifo-Browser/pull/82) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-6. ❌ Closed PR [#77](https://github.com/snaildos/Fifo-Browser/pull/77) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-7. 🎉 Merged PR [#81](https://github.com/snaildos/Fifo-Browser/pull/81) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-8. 🗣 Commented on [#81](https://github.com/snaildos/Fifo-Browser/issues/81) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+1. 🎉 Merged PR [#82](https://github.com/snaildos/Fifo-Browser/pull/82) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+2. ❌ Closed PR [#6](https://github.com/snaildos/Tetris/pull/6) in [snaildos/Tetris](https://github.com/snaildos/Tetris)
+3. ❌ Closed PR [#7](https://github.com/snaildos/Tetris/pull/7) in [snaildos/Tetris](https://github.com/snaildos/Tetris)
+4. 🎉 Merged PR [#8](https://github.com/snaildos/Tetris/pull/8) in [snaildos/Tetris](https://github.com/snaildos/Tetris)
+5. 🗣 Commented on [#6](https://github.com/kt5company/discord-uptimerobot/issues/6) in [kt5company/discord-uptimerobot](https://github.com/kt5company/discord-uptimerobot)
+6. 💪 Opened PR [#82](https://github.com/snaildos/Fifo-Browser/pull/82) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+7. ❌ Closed PR [#77](https://github.com/snaildos/Fifo-Browser/pull/77) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+8. 🎉 Merged PR [#81](https://github.com/snaildos/Fifo-Browser/pull/81) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
 9. 🗣 Commented on [#81](https://github.com/snaildos/Fifo-Browser/issues/81) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
 10. 🗣 Commented on [#81](https://github.com/snaildos/Fifo-Browser/issues/81) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
 <!--END_SECTION:activity-->
