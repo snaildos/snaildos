@@ -48,16 +48,16 @@ TypeScript   11 mins         █▒░░░░░░░░░░░░░░░
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/renzynx/bliss/issues/2) in [renzynx/bliss](https://github.com/renzynx/bliss)
-2. 🗣 Commented on [#2564](https://github.com/pterodactyl/panel/issues/2564) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-3. 🗣 Commented on [#3902](https://github.com/pterodactyl/panel/issues/3902) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-4. ❗️ Opened issue [#84](https://github.com/snaildos/Fifo-Browser/issues/84) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-5. 🎉 Merged PR [#82](https://github.com/snaildos/Fifo-Browser/pull/82) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-6. ❌ Closed PR [#6](https://github.com/snaildos/Tetris/pull/6) in [snaildos/Tetris](https://github.com/snaildos/Tetris)
-7. ❌ Closed PR [#7](https://github.com/snaildos/Tetris/pull/7) in [snaildos/Tetris](https://github.com/snaildos/Tetris)
-8. 🎉 Merged PR [#8](https://github.com/snaildos/Tetris/pull/8) in [snaildos/Tetris](https://github.com/snaildos/Tetris)
-9. 🗣 Commented on [#6](https://github.com/kt5company/discord-uptimerobot/issues/6) in [kt5company/discord-uptimerobot](https://github.com/kt5company/discord-uptimerobot)
-10. 💪 Opened PR [#82](https://github.com/snaildos/Fifo-Browser/pull/82) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+1. 🗣 Commented on [#2](https://github.com/renzynx/bliss/issues/2) in [renzynx/bliss](https://github.com/renzynx/bliss)
+2. ❗️ Opened issue [#2](https://github.com/renzynx/bliss/issues/2) in [renzynx/bliss](https://github.com/renzynx/bliss)
+3. 🗣 Commented on [#2564](https://github.com/pterodactyl/panel/issues/2564) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+4. 🗣 Commented on [#3902](https://github.com/pterodactyl/panel/issues/3902) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+5. ❗️ Opened issue [#84](https://github.com/snaildos/Fifo-Browser/issues/84) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+6. 🎉 Merged PR [#82](https://github.com/snaildos/Fifo-Browser/pull/82) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+7. ❌ Closed PR [#6](https://github.com/snaildos/Tetris/pull/6) in [snaildos/Tetris](https://github.com/snaildos/Tetris)
+8. ❌ Closed PR [#7](https://github.com/snaildos/Tetris/pull/7) in [snaildos/Tetris](https://github.com/snaildos/Tetris)
+9. 🎉 Merged PR [#8](https://github.com/snaildos/Tetris/pull/8) in [snaildos/Tetris](https://github.com/snaildos/Tetris)
+10. 🗣 Commented on [#6](https://github.com/kt5company/discord-uptimerobot/issues/6) in [kt5company/discord-uptimerobot](https://github.com/kt5company/discord-uptimerobot)
 <!--END_SECTION:activity-->
 
 Please join us, on discord.
