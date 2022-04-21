@@ -44,10 +44,10 @@ Other        2 hrs 20 mins   ████████▒░░░░░░░░
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/renzynx/bliss/issues/2) in [renzynx/bliss](https://github.com/renzynx/bliss)
-2. ❗️ Opened issue [#2](https://github.com/renzynx/bliss/issues/2) in [renzynx/bliss](https://github.com/renzynx/bliss)
-3. 🗣 Commented on [#2564](https://github.com/pterodactyl/panel/issues/2564) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-4. 🗣 Commented on [#3902](https://github.com/pterodactyl/panel/issues/3902) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+1. 🎉 Merged PR [#139](https://github.com/snaildos/SnailDOS-Desktop/pull/139) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+2. 🎉 Merged PR [#142](https://github.com/snaildos/SnailDOS-Desktop/pull/142) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+3. 🎉 Merged PR [#143](https://github.com/snaildos/SnailDOS-Desktop/pull/143) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+4. 🎉 Merged PR [#144](https://github.com/snaildos/SnailDOS-Desktop/pull/144) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
 5. ❗️ Opened issue [#84](https://github.com/snaildos/Fifo-Browser/issues/84) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
 6. 🎉 Merged PR [#82](https://github.com/snaildos/Fifo-Browser/pull/82) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
 7. ❌ Closed PR [#6](https://github.com/snaildos/Tetris/pull/6) in [snaildos/Tetris](https://github.com/snaildos/Tetris)
