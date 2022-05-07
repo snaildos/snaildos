@@ -44,16 +44,16 @@ Other        8 mins          ██████▒░░░░░░░░░░
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#412](https://github.com/ControlPanel-gg/dashboard/issues/412) in [ControlPanel-gg/dashboard](https://github.com/ControlPanel-gg/dashboard)
-2. 🗣 Commented on [#87](https://github.com/snaildos/Fifo-Browser/issues/87) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-3. 🎉 Merged PR [#7](https://github.com/snaildos/message-backup-bot/pull/7) in [snaildos/message-backup-bot](https://github.com/snaildos/message-backup-bot)
-4. 🗣 Commented on [#7](https://github.com/snaildos/message-backup-bot/issues/7) in [snaildos/message-backup-bot](https://github.com/snaildos/message-backup-bot)
-5. 🗣 Commented on [#6](https://github.com/snaildos/message-backup-bot/issues/6) in [snaildos/message-backup-bot](https://github.com/snaildos/message-backup-bot)
-6. 🎉 Merged PR [#6](https://github.com/snaildos/message-backup-bot/pull/6) in [snaildos/message-backup-bot](https://github.com/snaildos/message-backup-bot)
-7. 🗣 Commented on [#86](https://github.com/snaildos/Fifo-Browser/issues/86) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-8. 🗣 Commented on [#86](https://github.com/snaildos/Fifo-Browser/issues/86) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+1. 🗣 Commented on [#1](https://github.com/Encrypt-OS/EncryptOS-ISO/issues/1) in [Encrypt-OS/EncryptOS-ISO](https://github.com/Encrypt-OS/EncryptOS-ISO)
+2. ❗️ Opened issue [#1](https://github.com/Encrypt-OS/EncryptOS-ISO/issues/1) in [Encrypt-OS/EncryptOS-ISO](https://github.com/Encrypt-OS/EncryptOS-ISO)
+3. 🗣 Commented on [#412](https://github.com/ControlPanel-gg/dashboard/issues/412) in [ControlPanel-gg/dashboard](https://github.com/ControlPanel-gg/dashboard)
+4. 🗣 Commented on [#87](https://github.com/snaildos/Fifo-Browser/issues/87) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+5. 🎉 Merged PR [#7](https://github.com/snaildos/message-backup-bot/pull/7) in [snaildos/message-backup-bot](https://github.com/snaildos/message-backup-bot)
+6. 🗣 Commented on [#7](https://github.com/snaildos/message-backup-bot/issues/7) in [snaildos/message-backup-bot](https://github.com/snaildos/message-backup-bot)
+7. 🗣 Commented on [#6](https://github.com/snaildos/message-backup-bot/issues/6) in [snaildos/message-backup-bot](https://github.com/snaildos/message-backup-bot)
+8. 🎉 Merged PR [#6](https://github.com/snaildos/message-backup-bot/pull/6) in [snaildos/message-backup-bot](https://github.com/snaildos/message-backup-bot)
 9. 🗣 Commented on [#86](https://github.com/snaildos/Fifo-Browser/issues/86) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-10. 🎉 Merged PR [#142](https://github.com/snaildos/SnailDOS-Desktop/pull/142) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+10. 🗣 Commented on [#86](https://github.com/snaildos/Fifo-Browser/issues/86) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
 <!--END_SECTION:activity-->
 
 Please join us, on discord.
