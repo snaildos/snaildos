@@ -48,16 +48,16 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#130](https://github.com/electron/remote/issues/130) in [electron/remote](https://github.com/electron/remote)
-2. 🗣 Commented on [#61](https://github.com/electron/remote/issues/61) in [electron/remote](https://github.com/electron/remote)
-3. ❗️ Opened issue [#130](https://github.com/electron/remote/issues/130) in [electron/remote](https://github.com/electron/remote)
-4. ❗️ Closed issue [#637](https://github.com/wexond/browser-base/issues/637) in [wexond/browser-base](https://github.com/wexond/browser-base)
-5. 🗣 Commented on [#2](https://github.com/renzynx/bliss/issues/2) in [renzynx/bliss](https://github.com/renzynx/bliss)
+1. 🗣 Commented on [#2](https://github.com/renzynx/bliss/issues/2) in [renzynx/bliss](https://github.com/renzynx/bliss)
+2. 🗣 Commented on [#130](https://github.com/electron/remote/issues/130) in [electron/remote](https://github.com/electron/remote)
+3. 🗣 Commented on [#61](https://github.com/electron/remote/issues/61) in [electron/remote](https://github.com/electron/remote)
+4. ❗️ Opened issue [#130](https://github.com/electron/remote/issues/130) in [electron/remote](https://github.com/electron/remote)
+5. ❗️ Closed issue [#637](https://github.com/wexond/browser-base/issues/637) in [wexond/browser-base](https://github.com/wexond/browser-base)
 6. 🗣 Commented on [#2](https://github.com/renzynx/bliss/issues/2) in [renzynx/bliss](https://github.com/renzynx/bliss)
-7. 🗣 Commented on [#84](https://github.com/snaildos/Fifo-Browser/issues/84) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+7. 🗣 Commented on [#2](https://github.com/renzynx/bliss/issues/2) in [renzynx/bliss](https://github.com/renzynx/bliss)
 8. 🗣 Commented on [#84](https://github.com/snaildos/Fifo-Browser/issues/84) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
 9. 🗣 Commented on [#84](https://github.com/snaildos/Fifo-Browser/issues/84) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-10. 🗣 Commented on [#88](https://github.com/snaildos/Fifo-Browser/issues/88) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+10. 🗣 Commented on [#84](https://github.com/snaildos/Fifo-Browser/issues/84) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
 <!--END_SECTION:activity-->
 
 Please join us, on discord.
