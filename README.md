@@ -48,16 +48,16 @@ YAML         18 mins         ▓░░░░░░░░░░░░░░░░
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#130](https://github.com/electron/remote/issues/130) in [electron/remote](https://github.com/electron/remote)
-2. 🗣 Commented on [#2](https://github.com/renzynx/bliss/issues/2) in [renzynx/bliss](https://github.com/renzynx/bliss)
-3. 🗣 Commented on [#130](https://github.com/electron/remote/issues/130) in [electron/remote](https://github.com/electron/remote)
-4. 🗣 Commented on [#61](https://github.com/electron/remote/issues/61) in [electron/remote](https://github.com/electron/remote)
-5. ❗️ Opened issue [#130](https://github.com/electron/remote/issues/130) in [electron/remote](https://github.com/electron/remote)
-6. ❗️ Closed issue [#637](https://github.com/wexond/browser-base/issues/637) in [wexond/browser-base](https://github.com/wexond/browser-base)
-7. 🗣 Commented on [#2](https://github.com/renzynx/bliss/issues/2) in [renzynx/bliss](https://github.com/renzynx/bliss)
-8. 🗣 Commented on [#2](https://github.com/renzynx/bliss/issues/2) in [renzynx/bliss](https://github.com/renzynx/bliss)
-9. 🗣 Commented on [#84](https://github.com/snaildos/Fifo-Browser/issues/84) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-10. 🗣 Commented on [#84](https://github.com/snaildos/Fifo-Browser/issues/84) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+1. ❗️ Opened issue [#89](https://github.com/snaildos/Fifo-Browser/issues/89) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+2. 🗣 Commented on [#84](https://github.com/snaildos/Fifo-Browser/issues/84) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+3. ❗️ Closed issue [#1](https://github.com/Encrypt-OS/EncryptOS-ISO/issues/1) in [Encrypt-OS/EncryptOS-ISO](https://github.com/Encrypt-OS/EncryptOS-ISO)
+4. 🗣 Commented on [#1](https://github.com/Encrypt-OS/EncryptOS-ISO/issues/1) in [Encrypt-OS/EncryptOS-ISO](https://github.com/Encrypt-OS/EncryptOS-ISO)
+5. 🗣 Commented on [#130](https://github.com/electron/remote/issues/130) in [electron/remote](https://github.com/electron/remote)
+6. 🗣 Commented on [#2](https://github.com/renzynx/bliss/issues/2) in [renzynx/bliss](https://github.com/renzynx/bliss)
+7. 🗣 Commented on [#130](https://github.com/electron/remote/issues/130) in [electron/remote](https://github.com/electron/remote)
+8. 🗣 Commented on [#61](https://github.com/electron/remote/issues/61) in [electron/remote](https://github.com/electron/remote)
+9. ❗️ Opened issue [#130](https://github.com/electron/remote/issues/130) in [electron/remote](https://github.com/electron/remote)
+10. ❗️ Closed issue [#637](https://github.com/wexond/browser-base/issues/637) in [wexond/browser-base](https://github.com/wexond/browser-base)
 <!--END_SECTION:activity-->
 
 Please join us, on discord.
