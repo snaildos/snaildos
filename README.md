@@ -46,16 +46,16 @@ YAML         2 mins          ▓░░░░░░░░░░░░░░░░
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/snaildos/Fifo-Browser/issues/84) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-2. 🗣 Commented on [#412](https://github.com/ControlPanel-gg/dashboard/issues/412) in [ControlPanel-gg/dashboard](https://github.com/ControlPanel-gg/dashboard)
+1. 🎉 Merged PR [#90](https://github.com/snaildos/Fifo-Browser/pull/90) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+2. 💪 Opened PR [#90](https://github.com/snaildos/Fifo-Browser/pull/90) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
 3. 🗣 Commented on [#84](https://github.com/snaildos/Fifo-Browser/issues/84) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-4. 🗣 Commented on [#130](https://github.com/electron/remote/issues/130) in [electron/remote](https://github.com/electron/remote)
-5. ❗️ Closed issue [#1](https://github.com/freezed-or-frozen/lego-workshop/issues/1) in [freezed-or-frozen/lego-workshop](https://github.com/freezed-or-frozen/lego-workshop)
-6. 🗣 Commented on [#1](https://github.com/freezed-or-frozen/lego-workshop/issues/1) in [freezed-or-frozen/lego-workshop](https://github.com/freezed-or-frozen/lego-workshop)
-7. 🗣 Commented on [#130](https://github.com/electron/remote/issues/130) in [electron/remote](https://github.com/electron/remote)
-8. ❗️ Opened issue [#89](https://github.com/snaildos/Fifo-Browser/issues/89) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-9. 🗣 Commented on [#84](https://github.com/snaildos/Fifo-Browser/issues/84) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-10. ❗️ Closed issue [#1](https://github.com/Encrypt-OS/EncryptOS-ISO/issues/1) in [Encrypt-OS/EncryptOS-ISO](https://github.com/Encrypt-OS/EncryptOS-ISO)
+4. 🗣 Commented on [#412](https://github.com/ControlPanel-gg/dashboard/issues/412) in [ControlPanel-gg/dashboard](https://github.com/ControlPanel-gg/dashboard)
+5. 🗣 Commented on [#84](https://github.com/snaildos/Fifo-Browser/issues/84) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+6. 🗣 Commented on [#130](https://github.com/electron/remote/issues/130) in [electron/remote](https://github.com/electron/remote)
+7. ❗️ Closed issue [#1](https://github.com/freezed-or-frozen/lego-workshop/issues/1) in [freezed-or-frozen/lego-workshop](https://github.com/freezed-or-frozen/lego-workshop)
+8. 🗣 Commented on [#1](https://github.com/freezed-or-frozen/lego-workshop/issues/1) in [freezed-or-frozen/lego-workshop](https://github.com/freezed-or-frozen/lego-workshop)
+9. 🗣 Commented on [#130](https://github.com/electron/remote/issues/130) in [electron/remote](https://github.com/electron/remote)
+10. ❗️ Opened issue [#89](https://github.com/snaildos/Fifo-Browser/issues/89) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
 <!--END_SECTION:activity-->
 
 Please join us, on discord.
