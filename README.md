@@ -60,7 +60,6 @@ JavaScript   7 mins          ▓░░░░░░░░░░░░░░░░
 10. 🎉 Merged PR [#65](https://github.com/snaildos/StreamBop/pull/65) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
 <!--END_SECTION:activity-->
 
-Please join us, on discord.
-[discord](https://invite.gg/snaildos)
+Please join us, on [discord](https://invite.gg/snaildos).
 
 </div>
