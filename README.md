@@ -47,16 +47,16 @@ Other        6 mins          ▓░░░░░░░░░░░░░░░░
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#473](https://github.com/ControlPanel-gg/dashboard/issues/473) in [ControlPanel-gg/dashboard](https://github.com/ControlPanel-gg/dashboard)
-2. 🗣 Commented on [#224](https://github.com/ControlPanel-gg/dashboard/issues/224) in [ControlPanel-gg/dashboard](https://github.com/ControlPanel-gg/dashboard)
-3. 🗣 Commented on [#93](https://github.com/snaildos/Fifo-Browser/issues/93) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-4. 🗣 Commented on [#93](https://github.com/snaildos/Fifo-Browser/issues/93) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-5. ❗️ Closed issue [#89](https://github.com/snaildos/Fifo-Browser/issues/89) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-6. 🗣 Commented on [#89](https://github.com/snaildos/Fifo-Browser/issues/89) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-7. 🗣 Commented on [#89](https://github.com/snaildos/Fifo-Browser/issues/89) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-8. 🗣 Commented on [#76](https://github.com/snaildos/Fifo-Browser/issues/76) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-9. 🎉 Merged PR [#69](https://github.com/snaildos/StreamBop/pull/69) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-10. 🎉 Merged PR [#67](https://github.com/snaildos/StreamBop/pull/67) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+1. ❗️ Closed issue [#102](https://github.com/snaildos/Fifo-Browser/issues/102) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+2. 🗣 Commented on [#102](https://github.com/snaildos/Fifo-Browser/issues/102) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+3. ❗️ Closed issue [#99](https://github.com/snaildos/Fifo-Browser/issues/99) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+4. 🗣 Commented on [#99](https://github.com/snaildos/Fifo-Browser/issues/99) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+5. ❗️ Closed issue [#100](https://github.com/snaildos/Fifo-Browser/issues/100) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+6. 🗣 Commented on [#100](https://github.com/snaildos/Fifo-Browser/issues/100) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+7. ❗️ Opened issue [#104](https://github.com/snaildos/Fifo-Browser/issues/104) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+8. 🗣 Commented on [#99](https://github.com/snaildos/Fifo-Browser/issues/99) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+9. 🗣 Commented on [#101](https://github.com/snaildos/Fifo-Browser/issues/101) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+10. ❗️ Closed issue [#101](https://github.com/snaildos/Fifo-Browser/issues/101) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
 <!--END_SECTION:activity-->
 
 Please join us, on [discord](https://invite.gg/snaildos).
