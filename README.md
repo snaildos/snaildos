@@ -47,15 +47,15 @@ Other        16 mins         ▓░░░░░░░░░░░░░░░░
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#116](https://github.com/snaildos/Fifo-Browser/issues/116) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-2. 🗣 Commented on [#113](https://github.com/snaildos/Fifo-Browser/issues/113) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-3. ❗️ Closed issue [#2](https://github.com/Encrypt-OS/EncryptOS-ISO/issues/2) in [Encrypt-OS/EncryptOS-ISO](https://github.com/Encrypt-OS/EncryptOS-ISO)
-4. ❗️ Closed issue [#108](https://github.com/snaildos/Fifo-Browser/issues/108) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-5. 🗣 Commented on [#108](https://github.com/snaildos/Fifo-Browser/issues/108) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-6. ❗️ Opened issue [#116](https://github.com/snaildos/Fifo-Browser/issues/116) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-7. ❗️ Closed issue [#93](https://github.com/snaildos/Fifo-Browser/issues/93) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-8. 🎉 Merged PR [#115](https://github.com/snaildos/Fifo-Browser/pull/115) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-9. 💪 Opened PR [#115](https://github.com/snaildos/Fifo-Browser/pull/115) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-10. ❗️ Opened issue [#4](https://github.com/win11react/NewsAPI/issues/4) in [win11react/NewsAPI](https://github.com/win11react/NewsAPI)
+2. 🗣 Commented on [#116](https://github.com/snaildos/Fifo-Browser/issues/116) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+3. 🗣 Commented on [#113](https://github.com/snaildos/Fifo-Browser/issues/113) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+4. ❗️ Closed issue [#2](https://github.com/Encrypt-OS/EncryptOS-ISO/issues/2) in [Encrypt-OS/EncryptOS-ISO](https://github.com/Encrypt-OS/EncryptOS-ISO)
+5. ❗️ Closed issue [#108](https://github.com/snaildos/Fifo-Browser/issues/108) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+6. 🗣 Commented on [#108](https://github.com/snaildos/Fifo-Browser/issues/108) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+7. ❗️ Opened issue [#116](https://github.com/snaildos/Fifo-Browser/issues/116) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+8. ❗️ Closed issue [#93](https://github.com/snaildos/Fifo-Browser/issues/93) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+9. 🎉 Merged PR [#115](https://github.com/snaildos/Fifo-Browser/pull/115) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+10. 💪 Opened PR [#115](https://github.com/snaildos/Fifo-Browser/pull/115) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
 <!--END_SECTION:activity-->
 
 Please join us, on [discord](https://invite.gg/snaildos).
