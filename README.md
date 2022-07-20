@@ -47,16 +47,16 @@ Other        28 mins         ▓░░░░░░░░░░░░░░░░
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#120](https://github.com/snaildos/Fifo-Browser/issues/120) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-2. ❗️ Opened issue [#119](https://github.com/snaildos/Fifo-Browser/issues/119) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-3. 🗣 Commented on [#116](https://github.com/snaildos/Fifo-Browser/issues/116) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-4. 🗣 Commented on [#118](https://github.com/snaildos/Fifo-Browser/issues/118) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-5. 💪 Opened PR [#2158](https://github.com/dylanaraps/neofetch/pull/2158) in [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
-6. 🗣 Commented on [#117](https://github.com/snaildos/Fifo-Browser/issues/117) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-7. 🗣 Commented on [#117](https://github.com/snaildos/Fifo-Browser/issues/117) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-8. 🗣 Commented on [#116](https://github.com/snaildos/Fifo-Browser/issues/116) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-9. 🗣 Commented on [#116](https://github.com/snaildos/Fifo-Browser/issues/116) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-10. 🗣 Commented on [#113](https://github.com/snaildos/Fifo-Browser/issues/113) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+1. 🗣 Commented on [#103](https://github.com/snaildos/Fifo-Browser/issues/103) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+2. ❗️ Opened issue [#494](https://github.com/ControlPanel-gg/dashboard/issues/494) in [ControlPanel-gg/dashboard](https://github.com/ControlPanel-gg/dashboard)
+3. ❗️ Opened issue [#493](https://github.com/ControlPanel-gg/dashboard/issues/493) in [ControlPanel-gg/dashboard](https://github.com/ControlPanel-gg/dashboard)
+4. ❗️ Opened issue [#492](https://github.com/ControlPanel-gg/dashboard/issues/492) in [ControlPanel-gg/dashboard](https://github.com/ControlPanel-gg/dashboard)
+5. ❗️ Opened issue [#120](https://github.com/snaildos/Fifo-Browser/issues/120) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+6. ❗️ Opened issue [#119](https://github.com/snaildos/Fifo-Browser/issues/119) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+7. 🗣 Commented on [#116](https://github.com/snaildos/Fifo-Browser/issues/116) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+8. 🗣 Commented on [#118](https://github.com/snaildos/Fifo-Browser/issues/118) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+9. 💪 Opened PR [#2158](https://github.com/dylanaraps/neofetch/pull/2158) in [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
+10. 🗣 Commented on [#117](https://github.com/snaildos/Fifo-Browser/issues/117) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
 <!--END_SECTION:activity-->
 
 Please join us, on [discord](https://invite.gg/snaildos).
