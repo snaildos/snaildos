@@ -47,16 +47,16 @@ Other        12 mins         ▓░░░░░░░░░░░░░░░░
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#495](https://github.com/ControlPanel-gg/dashboard/issues/495) in [ControlPanel-gg/dashboard](https://github.com/ControlPanel-gg/dashboard)
-2. ❗️ Opened issue [#495](https://github.com/ControlPanel-gg/dashboard/issues/495) in [ControlPanel-gg/dashboard](https://github.com/ControlPanel-gg/dashboard)
-3. 🎉 Merged PR [#6](https://github.com/snaildos/bubbleid-sdk/pull/6) in [snaildos/bubbleid-sdk](https://github.com/snaildos/bubbleid-sdk)
-4. 🎉 Merged PR [#5](https://github.com/snaildos/bubbleid-sdk/pull/5) in [snaildos/bubbleid-sdk](https://github.com/snaildos/bubbleid-sdk)
-5. 🎉 Merged PR [#2](https://github.com/snaildos/bubbleid-sdk/pull/2) in [snaildos/bubbleid-sdk](https://github.com/snaildos/bubbleid-sdk)
-6. 🎉 Merged PR [#3](https://github.com/snaildos/bubbleid-sdk/pull/3) in [snaildos/bubbleid-sdk](https://github.com/snaildos/bubbleid-sdk)
-7. 🗣 Commented on [#111](https://github.com/snaildos/Fifo-Browser/issues/111) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-8. 🗣 Commented on [#116](https://github.com/snaildos/Fifo-Browser/issues/116) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-9. 🗣 Commented on [#103](https://github.com/snaildos/Fifo-Browser/issues/103) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-10. ❗️ Opened issue [#494](https://github.com/ControlPanel-gg/dashboard/issues/494) in [ControlPanel-gg/dashboard](https://github.com/ControlPanel-gg/dashboard)
+1. ❗️ Opened issue [#164](https://github.com/diced/zipline/issues/164) in [diced/zipline](https://github.com/diced/zipline)
+2. 🗣 Commented on [#495](https://github.com/ControlPanel-gg/dashboard/issues/495) in [ControlPanel-gg/dashboard](https://github.com/ControlPanel-gg/dashboard)
+3. ❗️ Opened issue [#495](https://github.com/ControlPanel-gg/dashboard/issues/495) in [ControlPanel-gg/dashboard](https://github.com/ControlPanel-gg/dashboard)
+4. 🎉 Merged PR [#6](https://github.com/snaildos/bubbleid-sdk/pull/6) in [snaildos/bubbleid-sdk](https://github.com/snaildos/bubbleid-sdk)
+5. 🎉 Merged PR [#5](https://github.com/snaildos/bubbleid-sdk/pull/5) in [snaildos/bubbleid-sdk](https://github.com/snaildos/bubbleid-sdk)
+6. 🎉 Merged PR [#2](https://github.com/snaildos/bubbleid-sdk/pull/2) in [snaildos/bubbleid-sdk](https://github.com/snaildos/bubbleid-sdk)
+7. 🎉 Merged PR [#3](https://github.com/snaildos/bubbleid-sdk/pull/3) in [snaildos/bubbleid-sdk](https://github.com/snaildos/bubbleid-sdk)
+8. 🗣 Commented on [#111](https://github.com/snaildos/Fifo-Browser/issues/111) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+9. 🗣 Commented on [#116](https://github.com/snaildos/Fifo-Browser/issues/116) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+10. 🗣 Commented on [#103](https://github.com/snaildos/Fifo-Browser/issues/103) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
 <!--END_SECTION:activity-->
 
 Please join us, on [discord](https://invite.gg/snaildos).
