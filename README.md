@@ -43,16 +43,16 @@ No activity tracked
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#89](https://github.com/snaildos/SnailFM-Application/pull/89) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-2. 🎉 Merged PR [#90](https://github.com/snaildos/SnailFM-Application/pull/90) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-3. 🎉 Merged PR [#92](https://github.com/snaildos/SnailFM-Application/pull/92) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-4. 🎉 Merged PR [#91](https://github.com/snaildos/SnailFM-Application/pull/91) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-5. ❌ Closed PR [#87](https://github.com/snaildos/SnailFM-Application/pull/87) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-6. 🗣 Commented on [#118](https://github.com/snaildos/Fifo-Browser/issues/118) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-7. 🗣 Commented on [#495](https://github.com/ControlPanel-gg/dashboard/issues/495) in [ControlPanel-gg/dashboard](https://github.com/ControlPanel-gg/dashboard)
-8. 💪 Opened PR [#2043](https://github.com/electron/apps/pull/2043) in [electron/apps](https://github.com/electron/apps)
-9. 🎉 Merged PR [#1](https://github.com/snaildos/apps/pull/1) in [snaildos/apps](https://github.com/snaildos/apps)
-10. 💪 Opened PR [#1](https://github.com/snaildos/apps/pull/1) in [snaildos/apps](https://github.com/snaildos/apps)
+1. 🗣 Commented on [#87](https://github.com/snaildos/SnailFM-Application/issues/87) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+2. 🎉 Merged PR [#89](https://github.com/snaildos/SnailFM-Application/pull/89) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+3. 🎉 Merged PR [#90](https://github.com/snaildos/SnailFM-Application/pull/90) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+4. 🎉 Merged PR [#92](https://github.com/snaildos/SnailFM-Application/pull/92) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+5. 🎉 Merged PR [#91](https://github.com/snaildos/SnailFM-Application/pull/91) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+6. ❌ Closed PR [#87](https://github.com/snaildos/SnailFM-Application/pull/87) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+7. 🗣 Commented on [#118](https://github.com/snaildos/Fifo-Browser/issues/118) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+8. 🗣 Commented on [#495](https://github.com/ControlPanel-gg/dashboard/issues/495) in [ControlPanel-gg/dashboard](https://github.com/ControlPanel-gg/dashboard)
+9. 💪 Opened PR [#2043](https://github.com/electron/apps/pull/2043) in [electron/apps](https://github.com/electron/apps)
+10. 🎉 Merged PR [#1](https://github.com/snaildos/apps/pull/1) in [snaildos/apps](https://github.com/snaildos/apps)
 <!--END_SECTION:activity-->
 
 Please join us, on [discord](https://invite.gg/snaildos).
