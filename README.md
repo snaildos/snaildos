@@ -43,16 +43,16 @@ No activity tracked
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#121](https://github.com/snaildos/Fifo-Browser/issues/121) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-2. 🎉 Merged PR [#96](https://github.com/snaildos/Fifo-Browser/pull/96) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-3. 🗣 Commented on [#131](https://github.com/snaildos/Fifo-Browser/issues/131) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-4. 🗣 Commented on [#87](https://github.com/snaildos/SnailFM-Application/issues/87) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-5. 🎉 Merged PR [#89](https://github.com/snaildos/SnailFM-Application/pull/89) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-6. 🎉 Merged PR [#90](https://github.com/snaildos/SnailFM-Application/pull/90) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-7. 🎉 Merged PR [#92](https://github.com/snaildos/SnailFM-Application/pull/92) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-8. 🎉 Merged PR [#91](https://github.com/snaildos/SnailFM-Application/pull/91) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-9. ❌ Closed PR [#87](https://github.com/snaildos/SnailFM-Application/pull/87) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-10. 🗣 Commented on [#118](https://github.com/snaildos/Fifo-Browser/issues/118) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+1. 🎉 Merged PR [#71](https://github.com/snaildos/StreamBop/pull/71) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+2. 🎉 Merged PR [#72](https://github.com/snaildos/StreamBop/pull/72) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+3. 🎉 Merged PR [#73](https://github.com/snaildos/StreamBop/pull/73) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+4. 🎉 Merged PR [#74](https://github.com/snaildos/StreamBop/pull/74) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+5. 🎉 Merged PR [#94](https://github.com/snaildos/SnailFM-Application/pull/94) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+6. 🎉 Merged PR [#93](https://github.com/snaildos/SnailFM-Application/pull/93) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+7. 🗣 Commented on [#121](https://github.com/snaildos/Fifo-Browser/issues/121) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+8. 🎉 Merged PR [#96](https://github.com/snaildos/Fifo-Browser/pull/96) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+9. 🗣 Commented on [#131](https://github.com/snaildos/Fifo-Browser/issues/131) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+10. 🗣 Commented on [#87](https://github.com/snaildos/SnailFM-Application/issues/87) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
 <!--END_SECTION:activity-->
 
 Please join us, on [discord](https://invite.gg/snaildos).
