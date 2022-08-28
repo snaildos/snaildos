@@ -43,16 +43,16 @@ No activity tracked
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/Encrypt-OS/roadmap/issues/6) in [Encrypt-OS/roadmap](https://github.com/Encrypt-OS/roadmap)
-2. ❗️ Opened issue [#5](https://github.com/Encrypt-OS/roadmap/issues/5) in [Encrypt-OS/roadmap](https://github.com/Encrypt-OS/roadmap)
-3. ❗️ Opened issue [#4](https://github.com/Encrypt-OS/roadmap/issues/4) in [Encrypt-OS/roadmap](https://github.com/Encrypt-OS/roadmap)
-4. ❗️ Opened issue [#3](https://github.com/Encrypt-OS/roadmap/issues/3) in [Encrypt-OS/roadmap](https://github.com/Encrypt-OS/roadmap)
-5. ❗️ Opened issue [#2](https://github.com/Encrypt-OS/roadmap/issues/2) in [Encrypt-OS/roadmap](https://github.com/Encrypt-OS/roadmap)
-6. ❗️ Opened issue [#1](https://github.com/Encrypt-OS/roadmap/issues/1) in [Encrypt-OS/roadmap](https://github.com/Encrypt-OS/roadmap)
-7. 🗣 Commented on [#116](https://github.com/snaildos/Fifo-Browser/issues/116) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-8. 🗣 Commented on [#131](https://github.com/snaildos/Fifo-Browser/issues/131) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-9. ❗️ Closed issue [#131](https://github.com/snaildos/Fifo-Browser/issues/131) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-10. 🎉 Merged PR [#71](https://github.com/snaildos/StreamBop/pull/71) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+1. 🗣 Commented on [#116](https://github.com/snaildos/Fifo-Browser/issues/116) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+2. 🗣 Commented on [#103](https://github.com/snaildos/Fifo-Browser/issues/103) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+3. ❗️ Opened issue [#132](https://github.com/snaildos/Fifo-Browser/issues/132) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+4. 🗣 Commented on [#111](https://github.com/snaildos/Fifo-Browser/issues/111) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+5. ❗️ Closed issue [#111](https://github.com/snaildos/Fifo-Browser/issues/111) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+6. 🗣 Commented on [#111](https://github.com/snaildos/Fifo-Browser/issues/111) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+7. 🗣 Commented on [#99](https://github.com/snaildos/Fifo-Browser/issues/99) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+8. 🗣 Commented on [#100](https://github.com/snaildos/Fifo-Browser/issues/100) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+9. 🗣 Commented on [#103](https://github.com/snaildos/Fifo-Browser/issues/103) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+10. ❗️ Opened issue [#6](https://github.com/Encrypt-OS/roadmap/issues/6) in [Encrypt-OS/roadmap](https://github.com/Encrypt-OS/roadmap)
 <!--END_SECTION:activity-->
 
 Please join us, on [discord](https://invite.gg/snaildos).
