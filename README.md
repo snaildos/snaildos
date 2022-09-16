@@ -43,16 +43,16 @@ No activity tracked
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#163](https://github.com/snaildos/Fifo-Browser/issues/163) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-2. 🗣 Commented on [#163](https://github.com/snaildos/Fifo-Browser/issues/163) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-3. 🗣 Commented on [#162](https://github.com/snaildos/Fifo-Browser/issues/162) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-4. ❗️ Opened issue [#164](https://github.com/snaildos/Fifo-Browser/issues/164) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-5. 🗣 Commented on [#147](https://github.com/snaildos/Fifo-Browser/issues/147) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-6. 🗣 Commented on [#16](https://github.com/HirziDevs/PteroStats/issues/16) in [HirziDevs/PteroStats](https://github.com/HirziDevs/PteroStats)
-7. 🎉 Merged PR [#3](https://github.com/Encrypt-OS/EncryptOS-ISO/pull/3) in [Encrypt-OS/EncryptOS-ISO](https://github.com/Encrypt-OS/EncryptOS-ISO)
-8. 🗣 Commented on [#3](https://github.com/Encrypt-OS/EncryptOS-ISO/issues/3) in [Encrypt-OS/EncryptOS-ISO](https://github.com/Encrypt-OS/EncryptOS-ISO)
-9. 💪 Opened PR [#3](https://github.com/Encrypt-OS/EncryptOS-ISO/pull/3) in [Encrypt-OS/EncryptOS-ISO](https://github.com/Encrypt-OS/EncryptOS-ISO)
-10. 🗣 Commented on [#147](https://github.com/snaildos/Fifo-Browser/issues/147) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+1. 🗣 Commented on [#147](https://github.com/snaildos/Fifo-Browser/issues/147) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+2. ❗️ Closed issue [#163](https://github.com/snaildos/Fifo-Browser/issues/163) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+3. 🗣 Commented on [#163](https://github.com/snaildos/Fifo-Browser/issues/163) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+4. 🗣 Commented on [#162](https://github.com/snaildos/Fifo-Browser/issues/162) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+5. ❗️ Opened issue [#164](https://github.com/snaildos/Fifo-Browser/issues/164) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+6. 🗣 Commented on [#147](https://github.com/snaildos/Fifo-Browser/issues/147) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+7. 🗣 Commented on [#16](https://github.com/HirziDevs/PteroStats/issues/16) in [HirziDevs/PteroStats](https://github.com/HirziDevs/PteroStats)
+8. 🎉 Merged PR [#3](https://github.com/Encrypt-OS/EncryptOS-ISO/pull/3) in [Encrypt-OS/EncryptOS-ISO](https://github.com/Encrypt-OS/EncryptOS-ISO)
+9. 🗣 Commented on [#3](https://github.com/Encrypt-OS/EncryptOS-ISO/issues/3) in [Encrypt-OS/EncryptOS-ISO](https://github.com/Encrypt-OS/EncryptOS-ISO)
+10. 💪 Opened PR [#3](https://github.com/Encrypt-OS/EncryptOS-ISO/pull/3) in [Encrypt-OS/EncryptOS-ISO](https://github.com/Encrypt-OS/EncryptOS-ISO)
 <!--END_SECTION:activity-->
 
 Please join us, on [discord](https://invite.gg/snaildos).
