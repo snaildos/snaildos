@@ -22,7 +22,7 @@
 - 📄 Know about our experiences [https://snaildos.com](https://snaildos.com)
 </div>
 
-<p align="center">📊 What have we been doing this week?:</p>
+<p align="center">📊 What have we been doing this week?</p>
 
 <div align="center">
 
