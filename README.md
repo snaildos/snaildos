@@ -47,16 +47,16 @@ Other        1 min           █▓░░░░░░░░░░░░░░░
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2564](https://github.com/pterodactyl/panel/issues/2564) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-2. 🗣 Commented on [#1879](https://github.com/CloudburstMC/Nukkit/issues/1879) in [CloudburstMC/Nukkit](https://github.com/CloudburstMC/Nukkit)
-3. 🎉 Merged PR [#86](https://github.com/snaildos/StreamBop/pull/86) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-4. 🎉 Merged PR [#87](https://github.com/snaildos/StreamBop/pull/87) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-5. 🎉 Merged PR [#88](https://github.com/snaildos/StreamBop/pull/88) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-6. 🗣 Commented on [#32999](https://github.com/nextcloud/server/issues/32999) in [nextcloud/server](https://github.com/nextcloud/server)
-7. ❗️ Closed issue [#150](https://github.com/snaildos/Fifo-Browser/issues/150) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-8. 🗣 Commented on [#150](https://github.com/snaildos/Fifo-Browser/issues/150) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-9. 🗣 Commented on [#147](https://github.com/snaildos/Fifo-Browser/issues/147) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-10. ❗️ Opened issue [#207](https://github.com/snaildos/Fifo-Browser/issues/207) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+1. 🎉 Merged PR [#212](https://github.com/snaildos/Fifo-Browser/pull/212) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+2. 🎉 Merged PR [#217](https://github.com/snaildos/Fifo-Browser/pull/217) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+3. 🎉 Merged PR [#214](https://github.com/snaildos/Fifo-Browser/pull/214) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+4. 🎉 Merged PR [#216](https://github.com/snaildos/Fifo-Browser/pull/216) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+5. 🎉 Merged PR [#213](https://github.com/snaildos/Fifo-Browser/pull/213) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+6. 🎉 Merged PR [#210](https://github.com/snaildos/Fifo-Browser/pull/210) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+7. 🎉 Merged PR [#209](https://github.com/snaildos/Fifo-Browser/pull/209) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+8. 🗣 Commented on [#2564](https://github.com/pterodactyl/panel/issues/2564) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+9. 🗣 Commented on [#1879](https://github.com/CloudburstMC/Nukkit/issues/1879) in [CloudburstMC/Nukkit](https://github.com/CloudburstMC/Nukkit)
+10. 🎉 Merged PR [#86](https://github.com/snaildos/StreamBop/pull/86) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
 <!--END_SECTION:activity-->
 
 Please join us, on [discord](https://invite.gg/snaildos).
