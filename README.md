@@ -45,13 +45,13 @@ Makefile   0 secs          ░░░░░░░░░░░░░░░░░�
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/SnailKM/SnailKM-Software/pull/8) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
-2. 🎉 Merged PR [#6](https://github.com/SnailKM/SnailKM-Software/pull/6) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
-3. 🎉 Merged PR [#7](https://github.com/SnailKM/SnailKM-Software/pull/7) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
-4. 🎉 Merged PR [#5](https://github.com/SnailKM/SnailKM/pull/5) in [SnailKM/SnailKM](https://github.com/SnailKM/SnailKM)
-5. 🎉 Merged PR [#4](https://github.com/SnailKM/SnailKM/pull/4) in [SnailKM/SnailKM](https://github.com/SnailKM/SnailKM)
-6. 🎉 Merged PR [#3](https://github.com/SnailKM/SnailKM/pull/3) in [SnailKM/SnailKM](https://github.com/SnailKM/SnailKM)
-7. 🗣 Commented on [#63](https://github.com/samuelmaddock/electron-browser-shell/issues/63) in [samuelmaddock/electron-browser-shell](https://github.com/samuelmaddock/electron-browser-shell)
+1. 🎉 Merged PR [#10](https://github.com/SnailKM/SnailKM-Software/pull/10) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
+2. 🎉 Merged PR [#9](https://github.com/SnailKM/SnailKM-Software/pull/9) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
+3. 🎉 Merged PR [#8](https://github.com/SnailKM/SnailKM-Software/pull/8) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
+4. 🎉 Merged PR [#6](https://github.com/SnailKM/SnailKM-Software/pull/6) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
+5. 🎉 Merged PR [#7](https://github.com/SnailKM/SnailKM-Software/pull/7) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
+6. 🎉 Merged PR [#5](https://github.com/SnailKM/SnailKM/pull/5) in [SnailKM/SnailKM](https://github.com/SnailKM/SnailKM)
+7. 🎉 Merged PR [#4](https://github.com/SnailKM/SnailKM/pull/4) in [SnailKM/SnailKM](https://github.com/SnailKM/SnailKM)
 8. 🎉 Merged PR [#212](https://github.com/snaildos/Fifo-Browser/pull/212) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
 9. 🎉 Merged PR [#217](https://github.com/snaildos/Fifo-Browser/pull/217) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
 10. 🎉 Merged PR [#210](https://github.com/snaildos/Fifo-Browser/pull/210) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
