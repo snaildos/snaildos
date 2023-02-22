@@ -29,9 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JSON       15 mins         ████████████████░░░░░░░░░   64.41 %
-C          8 mins          ████████▓░░░░░░░░░░░░░░░░   35.32 %
-Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
