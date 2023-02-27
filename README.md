@@ -44,16 +44,16 @@ Other        8 mins          ████▒░░░░░░░░░░░░
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/SnailKM/SnailKM-Software/pull/11) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
-2. 🎉 Merged PR [#10](https://github.com/SnailKM/SnailKM-Software/pull/10) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
-3. 🎉 Merged PR [#9](https://github.com/SnailKM/SnailKM-Software/pull/9) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
-4. 🎉 Merged PR [#8](https://github.com/SnailKM/SnailKM-Software/pull/8) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
-5. 🎉 Merged PR [#6](https://github.com/SnailKM/SnailKM-Software/pull/6) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
-6. 🎉 Merged PR [#7](https://github.com/SnailKM/SnailKM-Software/pull/7) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
-7. 🎉 Merged PR [#5](https://github.com/SnailKM/SnailKM/pull/5) in [SnailKM/SnailKM](https://github.com/SnailKM/SnailKM)
-8. 🎉 Merged PR [#212](https://github.com/snaildos/Fifo-Browser/pull/212) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-9. 🎉 Merged PR [#217](https://github.com/snaildos/Fifo-Browser/pull/217) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-10. 🎉 Merged PR [#210](https://github.com/snaildos/Fifo-Browser/pull/210) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+1. 🎉 Merged PR [#10](https://github.com/snaildos/modmail-plugins/pull/10) in [snaildos/modmail-plugins](https://github.com/snaildos/modmail-plugins)
+2. ❌ Reopened PR [#10](https://github.com/snaildos/modmail-plugins/pull/10) in [snaildos/modmail-plugins](https://github.com/snaildos/modmail-plugins)
+3. ❌ Closed PR [#10](https://github.com/snaildos/modmail-plugins/pull/10) in [snaildos/modmail-plugins](https://github.com/snaildos/modmail-plugins)
+4. 🗣 Commented on [#10](https://github.com/snaildos/modmail-plugins/issues/10) in [snaildos/modmail-plugins](https://github.com/snaildos/modmail-plugins)
+5. 🎉 Merged PR [#9](https://github.com/snaildos/modmail-plugins/pull/9) in [snaildos/modmail-plugins](https://github.com/snaildos/modmail-plugins)
+6. ❗️ Closed issue [#8](https://github.com/snaildos/modmail-plugins/issues/8) in [snaildos/modmail-plugins](https://github.com/snaildos/modmail-plugins)
+7. 🗣 Commented on [#8](https://github.com/snaildos/modmail-plugins/issues/8) in [snaildos/modmail-plugins](https://github.com/snaildos/modmail-plugins)
+8. 🎉 Merged PR [#11](https://github.com/SnailKM/SnailKM-Software/pull/11) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
+9. 🎉 Merged PR [#10](https://github.com/SnailKM/SnailKM-Software/pull/10) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
+10. 🎉 Merged PR [#9](https://github.com/SnailKM/SnailKM-Software/pull/9) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
 <!--END_SECTION:activity-->
 
 Please join us, on [discord](https://invite.gg/snaildos).
