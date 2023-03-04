@@ -44,16 +44,16 @@ Git Config   1 min           █████░░░░░░░░░░░░
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#147](https://github.com/snaildos/Fifo-Browser/issues/147) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-2. 🗣 Commented on [#208](https://github.com/snaildos/Fifo-Browser/issues/208) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-3. 🗣 Commented on [#218](https://github.com/snaildos/Fifo-Browser/issues/218) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-4. 🎉 Merged PR [#10](https://github.com/snaildos/modmail-plugins/pull/10) in [snaildos/modmail-plugins](https://github.com/snaildos/modmail-plugins)
-5. ❌ Reopened PR [#10](https://github.com/snaildos/modmail-plugins/pull/10) in [snaildos/modmail-plugins](https://github.com/snaildos/modmail-plugins)
-6. ❌ Closed PR [#10](https://github.com/snaildos/modmail-plugins/pull/10) in [snaildos/modmail-plugins](https://github.com/snaildos/modmail-plugins)
-7. 🗣 Commented on [#10](https://github.com/snaildos/modmail-plugins/issues/10) in [snaildos/modmail-plugins](https://github.com/snaildos/modmail-plugins)
-8. 🎉 Merged PR [#9](https://github.com/snaildos/modmail-plugins/pull/9) in [snaildos/modmail-plugins](https://github.com/snaildos/modmail-plugins)
-9. ❗️ Closed issue [#8](https://github.com/snaildos/modmail-plugins/issues/8) in [snaildos/modmail-plugins](https://github.com/snaildos/modmail-plugins)
-10. 🗣 Commented on [#8](https://github.com/snaildos/modmail-plugins/issues/8) in [snaildos/modmail-plugins](https://github.com/snaildos/modmail-plugins)
+1. 🗣 Commented on [#218](https://github.com/snaildos/Fifo-Browser/issues/218) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+2. 🗣 Commented on [#147](https://github.com/snaildos/Fifo-Browser/issues/147) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+3. 🗣 Commented on [#208](https://github.com/snaildos/Fifo-Browser/issues/208) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+4. 🗣 Commented on [#218](https://github.com/snaildos/Fifo-Browser/issues/218) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+5. 🎉 Merged PR [#10](https://github.com/snaildos/modmail-plugins/pull/10) in [snaildos/modmail-plugins](https://github.com/snaildos/modmail-plugins)
+6. ❌ Reopened PR [#10](https://github.com/snaildos/modmail-plugins/pull/10) in [snaildos/modmail-plugins](https://github.com/snaildos/modmail-plugins)
+7. ❌ Closed PR [#10](https://github.com/snaildos/modmail-plugins/pull/10) in [snaildos/modmail-plugins](https://github.com/snaildos/modmail-plugins)
+8. 🗣 Commented on [#10](https://github.com/snaildos/modmail-plugins/issues/10) in [snaildos/modmail-plugins](https://github.com/snaildos/modmail-plugins)
+9. 🎉 Merged PR [#9](https://github.com/snaildos/modmail-plugins/pull/9) in [snaildos/modmail-plugins](https://github.com/snaildos/modmail-plugins)
+10. ❗️ Closed issue [#8](https://github.com/snaildos/modmail-plugins/issues/8) in [snaildos/modmail-plugins](https://github.com/snaildos/modmail-plugins)
 <!--END_SECTION:activity-->
 
 Please join us, on [discord](https://invite.gg/snaildos).
