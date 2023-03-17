@@ -47,16 +47,16 @@ YAML         0 secs          ░░░░░░░░░░░░░░░░░
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#243](https://github.com/snaildos/SnailDOS-Desktop/pull/243) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-2. 💪 Opened PR [#93](https://github.com/snaildos/StreamBop/pull/93) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-3. 🎉 Merged PR [#92](https://github.com/snaildos/StreamBop/pull/92) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-4. 🎉 Merged PR [#90](https://github.com/snaildos/StreamBop/pull/90) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-5. 🎉 Merged PR [#91](https://github.com/snaildos/StreamBop/pull/91) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-6. 🎉 Merged PR [#89](https://github.com/snaildos/StreamBop/pull/89) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-7. 🎉 Merged PR [#105](https://github.com/snaildos/SnailFM-Application/pull/105) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-8. 💪 Opened PR [#105](https://github.com/snaildos/SnailFM-Application/pull/105) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-9. 🎉 Merged PR [#103](https://github.com/snaildos/SnailFM-Application/pull/103) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-10. 🎉 Merged PR [#104](https://github.com/snaildos/SnailFM-Application/pull/104) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+1. 🎉 Merged PR [#94](https://github.com/snaildos/StreamBop/pull/94) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+2. 🎉 Merged PR [#14](https://github.com/SnailKM/SnailKM-Software/pull/14) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
+3. 🎉 Merged PR [#243](https://github.com/snaildos/SnailDOS-Desktop/pull/243) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+4. 💪 Opened PR [#93](https://github.com/snaildos/StreamBop/pull/93) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+5. 🎉 Merged PR [#92](https://github.com/snaildos/StreamBop/pull/92) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+6. 🎉 Merged PR [#90](https://github.com/snaildos/StreamBop/pull/90) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+7. 🎉 Merged PR [#91](https://github.com/snaildos/StreamBop/pull/91) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+8. 🎉 Merged PR [#89](https://github.com/snaildos/StreamBop/pull/89) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+9. 🎉 Merged PR [#105](https://github.com/snaildos/SnailFM-Application/pull/105) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+10. 💪 Opened PR [#105](https://github.com/snaildos/SnailFM-Application/pull/105) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
 <!--END_SECTION:activity-->
 
 Please join us, on [discord](https://invite.gg/snaildos).
