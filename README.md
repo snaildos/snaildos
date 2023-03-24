@@ -48,16 +48,16 @@ Markdown     6 mins          █▓░░░░░░░░░░░░░░░
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#221](https://github.com/snaildos/Fifo-Browser/issues/221) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-2. ❗️ Closed issue [#3](https://github.com/snaildos/FEL/issues/3) in [snaildos/FEL](https://github.com/snaildos/FEL)
-3. 🗣 Commented on [#3](https://github.com/snaildos/FEL/issues/3) in [snaildos/FEL](https://github.com/snaildos/FEL)
-4. 🎉 Merged PR [#15](https://github.com/SnailKM/SnailKM-Software/pull/15) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
-5. 🎉 Merged PR [#16](https://github.com/SnailKM/SnailKM-Software/pull/16) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
-6. 🎉 Merged PR [#94](https://github.com/snaildos/StreamBop/pull/94) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-7. 🎉 Merged PR [#14](https://github.com/SnailKM/SnailKM-Software/pull/14) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
-8. 🎉 Merged PR [#243](https://github.com/snaildos/SnailDOS-Desktop/pull/243) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
-9. 💪 Opened PR [#93](https://github.com/snaildos/StreamBop/pull/93) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-10. 🎉 Merged PR [#92](https://github.com/snaildos/StreamBop/pull/92) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+1. 💪 Opened PR [#100508](https://github.com/microsoft/winget-pkgs/pull/100508) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+2. 🗣 Commented on [#221](https://github.com/snaildos/Fifo-Browser/issues/221) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+3. ❗️ Closed issue [#3](https://github.com/snaildos/FEL/issues/3) in [snaildos/FEL](https://github.com/snaildos/FEL)
+4. 🗣 Commented on [#3](https://github.com/snaildos/FEL/issues/3) in [snaildos/FEL](https://github.com/snaildos/FEL)
+5. 🎉 Merged PR [#15](https://github.com/SnailKM/SnailKM-Software/pull/15) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
+6. 🎉 Merged PR [#16](https://github.com/SnailKM/SnailKM-Software/pull/16) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
+7. 🎉 Merged PR [#94](https://github.com/snaildos/StreamBop/pull/94) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+8. 🎉 Merged PR [#14](https://github.com/SnailKM/SnailKM-Software/pull/14) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
+9. 🎉 Merged PR [#243](https://github.com/snaildos/SnailDOS-Desktop/pull/243) in [snaildos/SnailDOS-Desktop](https://github.com/snaildos/SnailDOS-Desktop)
+10. 💪 Opened PR [#93](https://github.com/snaildos/StreamBop/pull/93) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
 <!--END_SECTION:activity-->
 
 Please join us, on [discord](https://invite.gg/snaildos).
