@@ -43,16 +43,16 @@ JavaScript   6 mins          █████████████████
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#993](https://github.com/Anuken/Mindustry-Suggestions/issues/993) in [Anuken/Mindustry-Suggestions](https://github.com/Anuken/Mindustry-Suggestions)
-2. 🗣 Commented on [#993](https://github.com/Anuken/Mindustry-Suggestions/issues/993) in [Anuken/Mindustry-Suggestions](https://github.com/Anuken/Mindustry-Suggestions)
-3. 🗣 Commented on [#27121](https://github.com/electron/electron/issues/27121) in [electron/electron](https://github.com/electron/electron)
-4. 🎉 Merged PR [#17](https://github.com/SnailKM/SnailKM-Software/pull/17) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
-5. 🗣 Commented on [#256](https://github.com/snaildos/Fifo-Browser/issues/256) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-6. ❌ Closed PR [#255](https://github.com/snaildos/Fifo-Browser/pull/255) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-7. ❌ Closed PR [#222](https://github.com/snaildos/Fifo-Browser/pull/222) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-8. 🎉 Merged PR [#254](https://github.com/snaildos/Fifo-Browser/pull/254) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-9. 🎉 Merged PR [#253](https://github.com/snaildos/Fifo-Browser/pull/253) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-10. 🎉 Merged PR [#252](https://github.com/snaildos/Fifo-Browser/pull/252) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+1. 🎉 Merged PR [#18](https://github.com/SnailKM/SnailKM-Software/pull/18) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
+2. ❗️ Reopened issue [#993](https://github.com/Anuken/Mindustry-Suggestions/issues/993) in [Anuken/Mindustry-Suggestions](https://github.com/Anuken/Mindustry-Suggestions)
+3. 🗣 Commented on [#993](https://github.com/Anuken/Mindustry-Suggestions/issues/993) in [Anuken/Mindustry-Suggestions](https://github.com/Anuken/Mindustry-Suggestions)
+4. 🗣 Commented on [#27121](https://github.com/electron/electron/issues/27121) in [electron/electron](https://github.com/electron/electron)
+5. 🎉 Merged PR [#17](https://github.com/SnailKM/SnailKM-Software/pull/17) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
+6. 🗣 Commented on [#256](https://github.com/snaildos/Fifo-Browser/issues/256) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+7. ❌ Closed PR [#255](https://github.com/snaildos/Fifo-Browser/pull/255) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+8. ❌ Closed PR [#222](https://github.com/snaildos/Fifo-Browser/pull/222) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+9. 🎉 Merged PR [#254](https://github.com/snaildos/Fifo-Browser/pull/254) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+10. 🎉 Merged PR [#253](https://github.com/snaildos/Fifo-Browser/pull/253) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
 <!--END_SECTION:activity-->
 
 Please join us, on [discord](https://invite.gg/snaildos).
