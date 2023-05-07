@@ -58,6 +58,6 @@ JSON         1 min           ▓░░░░░░░░░░░░░░░░
 10. 🎉 Merged PR [#253](https://github.com/snaildos/Fifo-Browser/pull/253) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
 <!--END_SECTION:activity-->
 
-Please join us, on [discord](https://invite.gg/snaildos).
+Please join us, on [discord](https://dsc.gg/snaildos).
 
 </div>
