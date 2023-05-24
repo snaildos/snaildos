@@ -29,11 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   21 mins         ███████▓░░░░░░░░░░░░░░░░░   30.33 %
-TypeScript   21 mins         ███████▒░░░░░░░░░░░░░░░░░   29.86 %
-JSON         16 mins         ██████░░░░░░░░░░░░░░░░░░░   23.45 %
-Diff         5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
-Git Config   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+TypeScript   14 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
