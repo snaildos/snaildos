@@ -29,7 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   14 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
