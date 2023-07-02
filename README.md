@@ -43,16 +43,16 @@ No activity tracked
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/snaildos/test/pull/1) in [snaildos/test](https://github.com/snaildos/test)
-2. 🎉 Merged PR [#21](https://github.com/SnailKM/SnailKM-Software/pull/21) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
-3. 🗣 Commented on [#202](https://github.com/snaildos/Fifo-Browser/issues/202) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-4. 🚀 Published release [1.3.1](https://github.com/1.3.1) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-5. 🚀 Published release [1.3.0](https://github.com/1.3.0) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-6. 🎉 Merged PR [#250](https://github.com/snaildos/Fifo-Browser/pull/250) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-7. 🎉 Merged PR [#257](https://github.com/snaildos/Fifo-Browser/pull/257) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-8. 💪 Opened PR [#257](https://github.com/snaildos/Fifo-Browser/pull/257) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-9. 🗣 Commented on [#993](https://github.com/Anuken/Mindustry-Suggestions/issues/993) in [Anuken/Mindustry-Suggestions](https://github.com/Anuken/Mindustry-Suggestions)
-10. 🎉 Merged PR [#19](https://github.com/SnailKM/SnailKM-Software/pull/19) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
+1. ❗ Opened issue [#88](https://github.com/GoXLR-on-Linux/goxlr-utility/issues/88) in [GoXLR-on-Linux/goxlr-utility](https://github.com/GoXLR-on-Linux/goxlr-utility)
+2. 🎉 Merged PR [#1](https://github.com/snaildos/test/pull/1) in [snaildos/test](https://github.com/snaildos/test)
+3. 🎉 Merged PR [#21](https://github.com/SnailKM/SnailKM-Software/pull/21) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
+4. 🗣 Commented on [#202](https://github.com/snaildos/Fifo-Browser/issues/202) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+5. 🚀 Published release [1.3.1](https://github.com/1.3.1) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+6. 🚀 Published release [1.3.0](https://github.com/1.3.0) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+7. 🎉 Merged PR [#250](https://github.com/snaildos/Fifo-Browser/pull/250) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+8. 🎉 Merged PR [#257](https://github.com/snaildos/Fifo-Browser/pull/257) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+9. 💪 Opened PR [#257](https://github.com/snaildos/Fifo-Browser/pull/257) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+10. 🗣 Commented on [#993](https://github.com/Anuken/Mindustry-Suggestions/issues/993) in [Anuken/Mindustry-Suggestions](https://github.com/Anuken/Mindustry-Suggestions)
 <!--END_SECTION:activity-->
 
 Please join us, on [discord](https://dsc.gg/snaildos).
