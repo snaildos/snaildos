@@ -43,16 +43,16 @@ PHP   20 mins         ███████████████████�
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#87](https://github.com/snaildos/SnailFM-Application/pull/87) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-2. 🗣 Commented on [#87](https://github.com/snaildos/SnailFM-Application/issues/87) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-3. ❌ Reopened PR [#87](https://github.com/snaildos/SnailFM-Application/pull/87) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-4. 🎉 Merged PR [#109](https://github.com/snaildos/SnailFM-Application/pull/109) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-5. 🎉 Merged PR [#106](https://github.com/snaildos/SnailFM-Application/pull/106) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-6. 🎉 Merged PR [#108](https://github.com/snaildos/SnailFM-Application/pull/108) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-7. 🎉 Merged PR [#110](https://github.com/snaildos/SnailFM-Application/pull/110) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-8. 🎉 Merged PR [#111](https://github.com/snaildos/SnailFM-Application/pull/111) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-9. ❌ Closed PR [#112](https://github.com/snaildos/SnailFM-Application/pull/112) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-10. ❗ Opened issue [#7](https://github.com/Encrypt-OS/roadmap/issues/7) in [Encrypt-OS/roadmap](https://github.com/Encrypt-OS/roadmap)
+1. 🚀 Published release [2.1.8](https://github.com/2.1.8) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+2. 🎉 Merged PR [#87](https://github.com/snaildos/SnailFM-Application/pull/87) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+3. 🗣 Commented on [#87](https://github.com/snaildos/SnailFM-Application/issues/87) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+4. ❌ Reopened PR [#87](https://github.com/snaildos/SnailFM-Application/pull/87) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+5. 🎉 Merged PR [#109](https://github.com/snaildos/SnailFM-Application/pull/109) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+6. 🎉 Merged PR [#106](https://github.com/snaildos/SnailFM-Application/pull/106) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+7. 🎉 Merged PR [#108](https://github.com/snaildos/SnailFM-Application/pull/108) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+8. 🎉 Merged PR [#110](https://github.com/snaildos/SnailFM-Application/pull/110) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+9. 🎉 Merged PR [#111](https://github.com/snaildos/SnailFM-Application/pull/111) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+10. ❌ Closed PR [#112](https://github.com/snaildos/SnailFM-Application/pull/112) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
 <!--END_SECTION:activity-->
 
 Please join us, on [discord](https://dsc.gg/snaildos).
