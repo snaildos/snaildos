@@ -47,16 +47,16 @@ YAML         16 mins         ██▓░░░░░░░░░░░░░░
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#111455](https://github.com/microsoft/winget-pkgs/pull/111455) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-2. 🚀 Published release [1.6.1](https://github.com/1.6.1) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-3. 🚀 Published release [1.6.0](https://github.com/1.6.0) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-4. 🎉 Merged PR [#95](https://github.com/snaildos/StreamBop/pull/95) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-5. 🎉 Merged PR [#99](https://github.com/snaildos/StreamBop/pull/99) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-6. 🎉 Merged PR [#101](https://github.com/snaildos/StreamBop/pull/101) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-7. 🎉 Merged PR [#102](https://github.com/snaildos/StreamBop/pull/102) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-8. 🎉 Merged PR [#93](https://github.com/snaildos/StreamBop/pull/93) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-9. 🚀 Published release [2.1.8](https://github.com/2.1.8) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-10. 🚀 Published release [2.1.8](https://github.com/2.1.8) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
+1. 💪 Opened PR [#111648](https://github.com/microsoft/winget-pkgs/pull/111648) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+2. 🚀 Published release [1.3.1](https://github.com/1.3.1) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+3. 🔒 Closed issue [#147](https://github.com/snaildos/Fifo-Browser/issues/147) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+4. 🗣 Commented on [#147](https://github.com/snaildos/Fifo-Browser/issues/147) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+5. 🔒 Closed issue [#173](https://github.com/snaildos/Fifo-Browser/issues/173) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+6. 🗣 Commented on [#173](https://github.com/snaildos/Fifo-Browser/issues/173) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+7. 🔒 Closed issue [#208](https://github.com/snaildos/Fifo-Browser/issues/208) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+8. 🗣 Commented on [#208](https://github.com/snaildos/Fifo-Browser/issues/208) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+9. 🗣 Commented on [#147](https://github.com/snaildos/Fifo-Browser/issues/147) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+10. 💪 Opened PR [#111455](https://github.com/microsoft/winget-pkgs/pull/111455) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 <!--END_SECTION:activity-->
 
 Please join us, on [discord](https://dsc.gg/snaildos).
