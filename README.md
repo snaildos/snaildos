@@ -48,14 +48,14 @@ Git Config   21 mins         ██░░░░░░░░░░░░░░░
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#111648](https://github.com/microsoft/winget-pkgs/pull/111648) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-2. 🚀 Published release [1.3.1](https://github.com/1.3.1) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+2. 🚀 Published release [1.3.1](https://github.com/snaildos/Fifo-Browser/releases/tag/v1.3.1) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
 3. 🔒 Closed issue [#147](https://github.com/snaildos/Fifo-Browser/issues/147) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-4. 🗣 Commented on [#147](https://github.com/snaildos/Fifo-Browser/issues/147) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+4. 🗣 Commented on [#147](https://github.com/snaildos/Fifo-Browser/issues/147#issuecomment-1626880651) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
 5. 🔒 Closed issue [#173](https://github.com/snaildos/Fifo-Browser/issues/173) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-6. 🗣 Commented on [#173](https://github.com/snaildos/Fifo-Browser/issues/173) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+6. 🗣 Commented on [#173](https://github.com/snaildos/Fifo-Browser/issues/173#issuecomment-1626880478) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
 7. 🔒 Closed issue [#208](https://github.com/snaildos/Fifo-Browser/issues/208) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-8. 🗣 Commented on [#208](https://github.com/snaildos/Fifo-Browser/issues/208) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-9. 🗣 Commented on [#147](https://github.com/snaildos/Fifo-Browser/issues/147) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+8. 🗣 Commented on [#208](https://github.com/snaildos/Fifo-Browser/issues/208#issuecomment-1626876423) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+9. 🗣 Commented on [#147](https://github.com/snaildos/Fifo-Browser/issues/147#issuecomment-1626876314) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
 10. 💪 Opened PR [#111455](https://github.com/microsoft/winget-pkgs/pull/111455) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 <!--END_SECTION:activity-->
 
