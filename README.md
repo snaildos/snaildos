@@ -47,16 +47,16 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#268](https://github.com/snaildos/Fifo-Browser/pull/268) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-2. 🎉 Merged PR [#267](https://github.com/snaildos/Fifo-Browser/pull/267) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-3. 💪 Opened PR [#267](https://github.com/snaildos/Fifo-Browser/pull/267) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-4. 🗣 Commented on [#27121](https://github.com/electron/electron/issues/27121#issuecomment-1646728978) in [electron/electron](https://github.com/electron/electron)
-5. 🗣 Commented on [#263](https://github.com/snaildos/Fifo-Browser/issues/263#issuecomment-1636977460) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-6. 💪 Opened PR [#111648](https://github.com/microsoft/winget-pkgs/pull/111648) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-7. 🚀 Published release [1.3.1](https://github.com/snaildos/Fifo-Browser/releases/tag/v1.3.1) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-8. 🔒 Closed issue [#147](https://github.com/snaildos/Fifo-Browser/issues/147) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-9. 🗣 Commented on [#147](https://github.com/snaildos/Fifo-Browser/issues/147#issuecomment-1626880651) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-10. 🔒 Closed issue [#173](https://github.com/snaildos/Fifo-Browser/issues/173) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+1. 🔒 Closed issue [#264](https://github.com/snaildos/Fifo-Browser/issues/264) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+2. 🗣 Commented on [#264](https://github.com/snaildos/Fifo-Browser/issues/264#issuecomment-1647166605) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+3. 🔒 Closed issue [#269](https://github.com/snaildos/Fifo-Browser/issues/269) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+4. 🗣 Commented on [#269](https://github.com/snaildos/Fifo-Browser/issues/269#issuecomment-1647165484) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+5. 💪 Opened PR [#268](https://github.com/snaildos/Fifo-Browser/pull/268) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+6. 🎉 Merged PR [#267](https://github.com/snaildos/Fifo-Browser/pull/267) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+7. 💪 Opened PR [#267](https://github.com/snaildos/Fifo-Browser/pull/267) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+8. 🗣 Commented on [#27121](https://github.com/electron/electron/issues/27121#issuecomment-1646728978) in [electron/electron](https://github.com/electron/electron)
+9. 🗣 Commented on [#263](https://github.com/snaildos/Fifo-Browser/issues/263#issuecomment-1636977460) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+10. 💪 Opened PR [#111648](https://github.com/microsoft/winget-pkgs/pull/111648) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 <!--END_SECTION:activity-->
 
 Please join us, on [discord](https://dsc.gg/snaildos).
