@@ -29,7 +29,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   11 mins         ███████████░░░░░░░░░░░░░░   43.94 %
+JavaScript   5 mins          █████░░░░░░░░░░░░░░░░░░░░   20.26 %
+JSON         4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 %
+TSConfig     2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+Ezhil        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
 ```
 
 <!--END_SECTION:waka-->
