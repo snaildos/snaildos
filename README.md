@@ -46,16 +46,16 @@ XML          0 secs          ░░░░░░░░░░░░░░░░░
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/SurfSkipTech/surfonxy/pull/5) in [SurfSkipTech/surfonxy](https://github.com/SurfSkipTech/surfonxy)
-2. 🗣 Commented on [#5](https://github.com/SurfSkipTech/surfonxy/pull/5#issuecomment-1790030289) in [SurfSkipTech/surfonxy](https://github.com/SurfSkipTech/surfonxy)
-3. 🗣 Commented on [#103](https://github.com/Eugeny/tabby-web/issues/103#issuecomment-1784073594) in [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web)
-4. 🗣 Commented on [#1665](https://github.com/microsoft/devhome/issues/1665#issuecomment-1778722102) in [microsoft/devhome](https://github.com/microsoft/devhome)
-5. 🗣 Commented on [#27121](https://github.com/electron/electron/issues/27121#issuecomment-1774386173) in [electron/electron](https://github.com/electron/electron)
-6. 💪 Opened PR [#8669](https://github.com/is-a-dev/register/pull/8669) in [is-a-dev/register](https://github.com/is-a-dev/register)
-7. ❗ Opened issue [#1665](https://github.com/microsoft/devhome/issues/1665) in [microsoft/devhome](https://github.com/microsoft/devhome)
-8. 🎉 Merged PR [#107](https://github.com/snaildos/StreamBop/pull/107) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
-9. 🎉 Merged PR [#115](https://github.com/snaildos/SnailFM-Application/pull/115) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
-10. 🔓 Reopened issue [#278](https://github.com/snaildos/Fifo-Browser/issues/278) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+1. 🗣 Commented on [#282](https://github.com/snaildos/Fifo-Browser/issues/282#issuecomment-1793508041) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+2. ❌ Closed PR [#5](https://github.com/SurfSkipTech/surfonxy/pull/5) in [SurfSkipTech/surfonxy](https://github.com/SurfSkipTech/surfonxy)
+3. 🗣 Commented on [#5](https://github.com/SurfSkipTech/surfonxy/pull/5#issuecomment-1790030289) in [SurfSkipTech/surfonxy](https://github.com/SurfSkipTech/surfonxy)
+4. 🗣 Commented on [#103](https://github.com/Eugeny/tabby-web/issues/103#issuecomment-1784073594) in [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web)
+5. 🗣 Commented on [#1665](https://github.com/microsoft/devhome/issues/1665#issuecomment-1778722102) in [microsoft/devhome](https://github.com/microsoft/devhome)
+6. 🗣 Commented on [#27121](https://github.com/electron/electron/issues/27121#issuecomment-1774386173) in [electron/electron](https://github.com/electron/electron)
+7. 💪 Opened PR [#8669](https://github.com/is-a-dev/register/pull/8669) in [is-a-dev/register](https://github.com/is-a-dev/register)
+8. ❗ Opened issue [#1665](https://github.com/microsoft/devhome/issues/1665) in [microsoft/devhome](https://github.com/microsoft/devhome)
+9. 🎉 Merged PR [#107](https://github.com/snaildos/StreamBop/pull/107) in [snaildos/StreamBop](https://github.com/snaildos/StreamBop)
+10. 🎉 Merged PR [#115](https://github.com/snaildos/SnailFM-Application/pull/115) in [snaildos/SnailFM-Application](https://github.com/snaildos/SnailFM-Application)
 <!--END_SECTION:activity-->
 
 Please join us, on [discord](https://dsc.gg/snaildos).
