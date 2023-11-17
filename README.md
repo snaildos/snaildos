@@ -47,16 +47,16 @@ Docker       2 mins          ░░░░░░░░░░░░░░░░░
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#239](https://github.com/nfriedly/node-unblocker/issues/239#issuecomment-1814387321) in [nfriedly/node-unblocker](https://github.com/nfriedly/node-unblocker)
-2. 🗣 Commented on [#239](https://github.com/nfriedly/node-unblocker/issues/239#issuecomment-1814377147) in [nfriedly/node-unblocker](https://github.com/nfriedly/node-unblocker)
-3. 🗣 Commented on [#239](https://github.com/nfriedly/node-unblocker/issues/239#issuecomment-1814262796) in [nfriedly/node-unblocker](https://github.com/nfriedly/node-unblocker)
-4. ❗ Opened issue [#239](https://github.com/nfriedly/node-unblocker/issues/239) in [nfriedly/node-unblocker](https://github.com/nfriedly/node-unblocker)
-5. 🗣 Commented on [#282](https://github.com/snaildos/Fifo-Browser/issues/282#issuecomment-1793508041) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-6. ❌ Closed PR [#5](https://github.com/SurfSkipTech/surfonxy/pull/5) in [SurfSkipTech/surfonxy](https://github.com/SurfSkipTech/surfonxy)
-7. 🗣 Commented on [#5](https://github.com/SurfSkipTech/surfonxy/pull/5#issuecomment-1790030289) in [SurfSkipTech/surfonxy](https://github.com/SurfSkipTech/surfonxy)
-8. 🗣 Commented on [#103](https://github.com/Eugeny/tabby-web/issues/103#issuecomment-1784073594) in [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web)
-9. 🗣 Commented on [#1665](https://github.com/microsoft/devhome/issues/1665#issuecomment-1778722102) in [microsoft/devhome](https://github.com/microsoft/devhome)
-10. 🗣 Commented on [#27121](https://github.com/electron/electron/issues/27121#issuecomment-1774386173) in [electron/electron](https://github.com/electron/electron)
+1. 🔒 Closed issue [#239](https://github.com/nfriedly/node-unblocker/issues/239) in [nfriedly/node-unblocker](https://github.com/nfriedly/node-unblocker)
+2. 🗣 Commented on [#239](https://github.com/nfriedly/node-unblocker/issues/239#issuecomment-1815874373) in [nfriedly/node-unblocker](https://github.com/nfriedly/node-unblocker)
+3. 🗣 Commented on [#239](https://github.com/nfriedly/node-unblocker/issues/239#issuecomment-1814387321) in [nfriedly/node-unblocker](https://github.com/nfriedly/node-unblocker)
+4. 🗣 Commented on [#239](https://github.com/nfriedly/node-unblocker/issues/239#issuecomment-1814377147) in [nfriedly/node-unblocker](https://github.com/nfriedly/node-unblocker)
+5. 🗣 Commented on [#239](https://github.com/nfriedly/node-unblocker/issues/239#issuecomment-1814262796) in [nfriedly/node-unblocker](https://github.com/nfriedly/node-unblocker)
+6. ❗ Opened issue [#239](https://github.com/nfriedly/node-unblocker/issues/239) in [nfriedly/node-unblocker](https://github.com/nfriedly/node-unblocker)
+7. 🗣 Commented on [#282](https://github.com/snaildos/Fifo-Browser/issues/282#issuecomment-1793508041) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+8. ❌ Closed PR [#5](https://github.com/SurfSkipTech/surfonxy/pull/5) in [SurfSkipTech/surfonxy](https://github.com/SurfSkipTech/surfonxy)
+9. 🗣 Commented on [#5](https://github.com/SurfSkipTech/surfonxy/pull/5#issuecomment-1790030289) in [SurfSkipTech/surfonxy](https://github.com/SurfSkipTech/surfonxy)
+10. 🗣 Commented on [#103](https://github.com/Eugeny/tabby-web/issues/103#issuecomment-1784073594) in [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web)
 <!--END_SECTION:activity-->
 
 Please join us, on [discord](https://dsc.gg/snaildos).
