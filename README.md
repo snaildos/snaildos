@@ -45,8 +45,8 @@ JSON         8 mins          ██▒░░░░░░░░░░░░░░
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2710](https://github.com/umami-software/umami/issues/2710#issuecomment-2093706635) in [umami-software/umami](https://github.com/umami-software/umami)
-2. 🗣 Commented on [#491](https://github.com/booksaw/BetterTeams/issues/491#issuecomment-1970529403) in [booksaw/BetterTeams](https://github.com/booksaw/BetterTeams)
+1. 🗣 Commented on [#283](https://github.com/snaildos/Fifo-Browser/issues/283#issuecomment-2237932854) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+2. 🗣 Commented on [#2710](https://github.com/umami-software/umami/issues/2710#issuecomment-2093706635) in [umami-software/umami](https://github.com/umami-software/umami)
 3. 🎉 Merged PR [#30](https://github.com/SnailKM/SnailKM-Software/pull/30) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
 4. 🗣 Commented on [#239](https://github.com/nfriedly/node-unblocker/issues/239#issuecomment-1815874373) in [nfriedly/node-unblocker](https://github.com/nfriedly/node-unblocker)
 5. 🗣 Commented on [#239](https://github.com/nfriedly/node-unblocker/issues/239#issuecomment-1814387321) in [nfriedly/node-unblocker](https://github.com/nfriedly/node-unblocker)
