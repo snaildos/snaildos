@@ -46,11 +46,11 @@ Other         0 secs          ░░░░░░░░░░░░░░░░�
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. 🚀 Published release [3.6.1](https://github.com/ThePrivateCompany/desktop-releases/releases/tag/v3.6.1) in [ThePrivateCompany/desktop-releases](https://github.com/ThePrivateCompany/desktop-releases)
-2. 🎉 Merged PR [#1](https://github.com/snaildos/OpenVPNAdapter/pull/1) in [snaildos/OpenVPNAdapter](https://github.com/snaildos/OpenVPNAdapter)
-3. 💪 Opened PR [#1](https://github.com/snaildos/OpenVPNAdapter/pull/1) in [snaildos/OpenVPNAdapter](https://github.com/snaildos/OpenVPNAdapter)
-4. 🗣 Commented on [#283](https://github.com/snaildos/Fifo-Browser/issues/283#issuecomment-2237932854) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
-5. 🗣 Commented on [#239](https://github.com/nfriedly/node-unblocker/issues/239#issuecomment-1814387321) in [nfriedly/node-unblocker](https://github.com/nfriedly/node-unblocker)
+1. 🚀 Published release [3.6.2](https://github.com/ThePrivateCompany/desktop-releases/releases/tag/v3.6.2) in [ThePrivateCompany/desktop-releases](https://github.com/ThePrivateCompany/desktop-releases)
+2. 🚀 Published release [3.6.1](https://github.com/ThePrivateCompany/desktop-releases/releases/tag/v3.6.1) in [ThePrivateCompany/desktop-releases](https://github.com/ThePrivateCompany/desktop-releases)
+3. 🎉 Merged PR [#1](https://github.com/snaildos/OpenVPNAdapter/pull/1) in [snaildos/OpenVPNAdapter](https://github.com/snaildos/OpenVPNAdapter)
+4. 💪 Opened PR [#1](https://github.com/snaildos/OpenVPNAdapter/pull/1) in [snaildos/OpenVPNAdapter](https://github.com/snaildos/OpenVPNAdapter)
+5. 🗣 Commented on [#283](https://github.com/snaildos/Fifo-Browser/issues/283#issuecomment-2237932854) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
 6. 🗣 Commented on [#239](https://github.com/nfriedly/node-unblocker/issues/239#issuecomment-1814377147) in [nfriedly/node-unblocker](https://github.com/nfriedly/node-unblocker)
 7. 🗣 Commented on [#239](https://github.com/nfriedly/node-unblocker/issues/239#issuecomment-1814262796) in [nfriedly/node-unblocker](https://github.com/nfriedly/node-unblocker)
 8. ❗ Opened issue [#239](https://github.com/nfriedly/node-unblocker/issues/239) in [nfriedly/node-unblocker](https://github.com/nfriedly/node-unblocker)
