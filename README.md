@@ -29,10 +29,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript    3 hrs 18 mins   ██████████████████████▓░░   90.20 %
-TypeScript    21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
-Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript   57 mins         █████████████████░░░░░░░░   67.35 %
+JavaScript   19 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.94 %
+JSON         8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
 ```
 
 <!--END_SECTION:waka-->
@@ -46,11 +45,11 @@ Other         0 secs          ░░░░░░░░░░░░░░░░�
 
 ## Here is our activity ^w^
 <!--START_SECTION:activity-->
-1. 🚀 Published release [3.6.2](https://github.com/ThePrivateCompany/desktop-releases/releases/tag/v3.6.2) in [ThePrivateCompany/desktop-releases](https://github.com/ThePrivateCompany/desktop-releases)
-2. 🚀 Published release [3.6.1](https://github.com/ThePrivateCompany/desktop-releases/releases/tag/v3.6.1) in [ThePrivateCompany/desktop-releases](https://github.com/ThePrivateCompany/desktop-releases)
-3. 🎉 Merged PR [#1](https://github.com/snaildos/OpenVPNAdapter/pull/1) in [snaildos/OpenVPNAdapter](https://github.com/snaildos/OpenVPNAdapter)
-4. 💪 Opened PR [#1](https://github.com/snaildos/OpenVPNAdapter/pull/1) in [snaildos/OpenVPNAdapter](https://github.com/snaildos/OpenVPNAdapter)
-5. 🗣 Commented on [#283](https://github.com/snaildos/Fifo-Browser/issues/283#issuecomment-2237932854) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+1. 🗣 Commented on [#283](https://github.com/snaildos/Fifo-Browser/issues/283#issuecomment-2237932854) in [snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+2. 🗣 Commented on [#2710](https://github.com/umami-software/umami/issues/2710#issuecomment-2093706635) in [umami-software/umami](https://github.com/umami-software/umami)
+3. 🎉 Merged PR [#30](https://github.com/SnailKM/SnailKM-Software/pull/30) in [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software)
+4. 🗣 Commented on [#239](https://github.com/nfriedly/node-unblocker/issues/239#issuecomment-1815874373) in [nfriedly/node-unblocker](https://github.com/nfriedly/node-unblocker)
+5. 🗣 Commented on [#239](https://github.com/nfriedly/node-unblocker/issues/239#issuecomment-1814387321) in [nfriedly/node-unblocker](https://github.com/nfriedly/node-unblocker)
 6. 🗣 Commented on [#239](https://github.com/nfriedly/node-unblocker/issues/239#issuecomment-1814377147) in [nfriedly/node-unblocker](https://github.com/nfriedly/node-unblocker)
 7. 🗣 Commented on [#239](https://github.com/nfriedly/node-unblocker/issues/239#issuecomment-1814262796) in [nfriedly/node-unblocker](https://github.com/nfriedly/node-unblocker)
 8. ❗ Opened issue [#239](https://github.com/nfriedly/node-unblocker/issues/239) in [nfriedly/node-unblocker](https://github.com/nfriedly/node-unblocker)
