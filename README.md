@@ -29,9 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Objective-C   8 mins          ████████████████████████▒   97.94 %
-Other         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-Diff          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
