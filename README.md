@@ -29,7 +29,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Objective-C   2 mins          ██████████▓░░░░░░░░░░░░░░   42.94 %
+Diff          1 min           ███████░░░░░░░░░░░░░░░░░░   27.72 %
+JavaScript    0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
+TypeScript    0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
 ```
 
 <!--END_SECTION:waka-->
