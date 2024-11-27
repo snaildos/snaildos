@@ -29,11 +29,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Objective-C     1 hr 52 mins    ████████████████▒░░░░░░░░   65.96 %
-TypeScript      43 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.73 %
-JavaScript      12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
-Objective-C++   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Diff            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Objective-C     1 hr 38 mins    ██████████████████░░░░░░░   72.60 %
+TypeScript      30 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.28 %
+JavaScript      5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+Objective-C++   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka-->
