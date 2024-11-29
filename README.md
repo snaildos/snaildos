@@ -29,10 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Objective-C     1 hr 7 mins     ███████████████████▓░░░░░   78.31 %
-TypeScript      11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
-JavaScript      5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-Objective-C++   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Objective-C   24 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
