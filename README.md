@@ -29,7 +29,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Objective-C     45 mins         ███████████▒░░░░░░░░░░░░░   45.75 %
+Objective-C++   35 mins         ████████▓░░░░░░░░░░░░░░░░   35.21 %
+Swift           11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
+TypeScript      6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
+Diff            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
