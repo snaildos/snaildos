@@ -29,8 +29,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON              6 mins          ████████████████████████▓   98.19 %
-Java Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+JavaScript        6 mins          ████████████▓░░░░░░░░░░░░   50.46 %
+JSON              6 mins          ███████████▓░░░░░░░░░░░░░   47.17 %
+HTML              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Java Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
