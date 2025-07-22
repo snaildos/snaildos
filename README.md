@@ -29,10 +29,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    35 mins         ████████████████████████▓   98.34 %
-Objective-C   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Python        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+TypeScript    35 mins         ████████████████████████▓   98.99 %
+Objective-C   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
